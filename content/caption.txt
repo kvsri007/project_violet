@@ -1,0 +1,5 @@
+Ever wondered how hands-free Instagram posting works? This automation, built with Python 🐍 and API integration 🔗, brings daily vocabulary content straight to your feed — no manual effort needed! 📚
+
+I’m sharing this as part of my technical portfolio. Would you try automating your posts? Let me know below! 💬
+
+👉 Interested in my work? Follow Sriram K V on LinkedIn (link in bio).
