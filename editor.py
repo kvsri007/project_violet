@@ -9,7 +9,7 @@ import time
 
 ## SECRET ##
 
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+GITHUB_TOKEN = os.getenv("G_TOKEN")
 IG_ACCESS_TOKEN = os.getenv("IG_TOKEN")
 IG_USER_ID = os.getenv("IG_ID")
 
