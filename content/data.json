@@ -1,10 +1,18 @@
 [
   {
-    "day": 0,
+    "day": "0",
     "word": "",
     "ipa": "",
     "definition": "",
     "ex_1": "",
     "ex_2": ""
+  },
+  {
+    "day": "1",
+    "word": "Aberration",
+    "ipa": "/\u02cc\u00e6b.\u0259\u02c8re\u026a.\u0283\u0259n/",
+    "definition": "A deviation from what is normal or expected",
+    "ex_1": "His outburst was an aberration.",
+    "ex_2": "The test results showed an aberration in the data."
   }
 ]
