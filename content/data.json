@@ -1,6 +1,30 @@
 [
   {
-    "day": 5,
+    "day": 1,
+    "word": "Abate",
+    "ipa": "/əˈbeɪt/",
+    "definition": "To become less strong or decrease",
+    "eg_1": "The storm finally began to abate.",
+    "eg_2": "His anger abated after he heard the explanation."
+  },
+  {
+    "day": 2,
+    "word": "Abdicate",
+    "ipa": "/ˈæb.dɪ.keɪt/",
+    "definition": "To give up a position of power",
+    "eg_1": "The king decided to abdicate the throne.",
+    "eg_2": "She abdicated her responsibilities as a leader."
+  },
+  {
+    "day": 3,
+    "word": "Aberration",
+    "ipa": "/ˌæb.əˈreɪ.ʃən/",
+    "definition": "A deviation from what is normal or expected",
+    "eg_1": "His outburst was an aberration.",
+    "eg_2": "The test results showed an aberration in the data."
+  },
+  {
+    "day": 4,
     "word": "Abhor",
     "ipa": "/əbˈhɔːr/",
     "definition": "To hate deeply",
@@ -8,7 +32,7 @@
     "eg_2": "He abhors being late."
   },
   {
-    "day": 6,
+    "day": 5,
     "word": "Abject",
     "ipa": "/ˈæb.dʒɛkt/",
     "definition": "Extremely bad or severe",
@@ -16,7 +40,7 @@
     "eg_2": "He offered an abject apology."
   },
   {
-    "day": 7,
+    "day": 6,
     "word": "Abridge",
     "ipa": "/əˈbrɪdʒ/",
     "definition": "To shorten a text without losing the sense",
@@ -24,7 +48,7 @@
     "eg_2": "The article was abridged to fit the page."
   },
   {
-    "day": 8,
+    "day": 7,
     "word": "Absolve",
     "ipa": "/əbˈzɒlv/",
     "definition": "To free from guilt or blame",
@@ -32,7 +56,7 @@
     "eg_2": "Her apology did not absolve her responsibility."
   },
   {
-    "day": 9,
+    "day": 8,
     "word": "Abstain",
     "ipa": "/əbˈsteɪn/",
     "definition": "To choose not to do something",
@@ -40,7 +64,7 @@
     "eg_2": "Many voters abstained in the election."
   },
   {
-    "day": 10,
+    "day": 9,
     "word": "Abstruse",
     "ipa": "/əbˈstruːs/",
     "definition": "Difficult to understand",
@@ -48,7 +72,7 @@
     "eg_2": "Quantum physics can be abstruse for beginners."
   },
   {
-    "day": 11,
+    "day": 10,
     "word": "Accolade",
     "ipa": "/ˈæk.ə.leɪd/",
     "definition": "An award or praise",
@@ -56,7 +80,7 @@
     "eg_2": "The film won many accolades."
   },
   {
-    "day": 12,
+    "day": 11,
     "word": "Acquiesce",
     "ipa": "/ˌæk.wiˈɛs/",
     "definition": "To accept without protest",
@@ -64,7 +88,7 @@
     "eg_2": "They acquiesced in the decision."
   },
   {
-    "day": 13,
+    "day": 12,
     "word": "Acrimonious",
     "ipa": "/ˌæk.rɪˈmoʊ.ni.əs/",
     "definition": "Angry and bitter",
@@ -72,7 +96,7 @@
     "eg_2": "The meeting ended on an acrimonious note."
   },
   {
-    "day": 14,
+    "day": 13,
     "word": "Acumen",
     "ipa": "/əˈkjuː.mən/",
     "definition": "Keen insight or shrewdness",
@@ -80,7 +104,7 @@
     "eg_2": "He demonstrated political acumen during the debate."
   },
   {
-    "day": 15,
+    "day": 14,
     "word": "Admonish",
     "ipa": "/ədˈmɒn.ɪʃ/",
     "definition": "To warn or reprimand firmly",
@@ -88,7 +112,7 @@
     "eg_2": "She admonished him to drive carefully."
   },
   {
-    "day": 16,
+    "day": 15,
     "word": "Adulation",
     "ipa": "/ˌæd.jʊˈleɪ.ʃən/",
     "definition": "Excessive praise or admiration",
@@ -96,7 +120,7 @@
     "eg_2": "He was uncomfortable with the adulation."
   },
   {
-    "day": 17,
+    "day": 16,
     "word": "Adversity",
     "ipa": "/ədˈvɜːr.sɪ.ti/",
     "definition": "Difficult or unpleasant situation",
@@ -104,7 +128,7 @@
     "eg_2": "Adversity can strengthen character."
   },
   {
-    "day": 18,
+    "day": 17,
     "word": "Aesthetic",
     "ipa": "/esˈθet.ɪk/",
     "definition": "Concerned with beauty",
@@ -112,7 +136,7 @@
     "eg_2": "She has an aesthetic sense."
   },
   {
-    "day": 19,
+    "day": 18,
     "word": "Affable",
     "ipa": "/ˈæf.ə.bəl/",
     "definition": "Friendly and easy to talk to",
@@ -120,7 +144,7 @@
     "eg_2": "Her affable manner puts people at ease."
   },
   {
-    "day": 20,
+    "day": 19,
     "word": "Alacrity",
     "ipa": "/əˈlæk.rɪ.ti/",
     "definition": "Cheerful readiness",
@@ -128,7 +152,7 @@
     "eg_2": "He responded with alacrity."
   },
   {
-    "day": 21,
+    "day": 20,
     "word": "Alleviate",
     "ipa": "/əˈliː.vi.eɪt/",
     "definition": "To make less severe",
@@ -136,7 +160,7 @@
     "eg_2": "Efforts were made to alleviate poverty."
   },
   {
-    "day": 22,
+    "day": 21,
     "word": "Alleviate",
     "ipa": "/əˈliː.vi.eɪt/",
     "definition": "To make less severe",
@@ -144,7 +168,7 @@
     "eg_2": "Efforts were made to alleviate poverty."
   },
   {
-    "day": 23,
+    "day": 22,
     "word": "Allude",
     "ipa": "/əˈluːd/",
     "definition": "To refer indirectly",
@@ -152,7 +176,7 @@
     "eg_2": "The story alludes to Greek mythology."
   },
   {
-    "day": 24,
+    "day": 23,
     "word": "Aloof",
     "ipa": "/əˈluːf/",
     "definition": "Not friendly or forthcoming",
@@ -160,7 +184,7 @@
     "eg_2": "He kept himself aloof from the group."
   },
   {
-    "day": 25,
+    "day": 24,
     "word": "Ambiguous",
     "ipa": "/æmˈbɪɡ.ju.əs/",
     "definition": "Having more than one meaning",
@@ -168,7 +192,7 @@
     "eg_2": "The law is ambiguous on this issue."
   },
   {
-    "day": 26,
+    "day": 25,
     "word": "Ambivalent",
     "ipa": "/æmˈbɪv.ə.lənt/",
     "definition": "Having mixed feelings",
@@ -176,7 +200,7 @@
     "eg_2": "He was ambivalent towards the proposal."
   },
   {
-    "day": 27,
+    "day": 26,
     "word": "Ameliorate",
     "ipa": "/əˈmiːl.jə.reɪt/",
     "definition": "To make better",
@@ -184,7 +208,7 @@
     "eg_2": "He tried to ameliorate her suffering."
   },
   {
-    "day": 28,
+    "day": 27,
     "word": "Amiable",
     "ipa": "/ˈeɪ.mi.ə.bəl/",
     "definition": "Friendly and pleasant",
@@ -192,7 +216,7 @@
     "eg_2": "Her amiable nature attracts many friends."
   },
   {
-    "day": 29,
+    "day": 28,
     "word": "Amorphous",
     "ipa": "/əˈmɔː.fəs/",
     "definition": "Lacking a clear shape or form",
@@ -200,7 +224,7 @@
     "eg_2": "An amorphous cloud drifted across the sky."
   },
   {
-    "day": 30,
+    "day": 29,
     "word": "Anachronism",
     "ipa": "/əˈnæk.rə.nɪ.zəm/",
     "definition": "Something out of its proper time",
@@ -208,7 +232,7 @@
     "eg_2": "The film contains several anachronisms."
   },
   {
-    "day": 31,
+    "day": 30,
     "word": "Anachronistic",
     "ipa": "/əˌnæk.rəˈnɪs.tɪk/",
     "definition": "Belonging to a different time period",
@@ -216,7 +240,7 @@
     "eg_2": "His views are considered anachronistic today."
   },
   {
-    "day": 32,
+    "day": 31,
     "word": "Anecdote",
     "ipa": "/ˈæn.ɪk.doʊt/",
     "definition": "A short, amusing story",
@@ -224,7 +248,7 @@
     "eg_2": "The book is full of amusing anecdotes."
   },
   {
-    "day": 33,
+    "day": 32,
     "word": "Animosity",
     "ipa": "/ˌæn.ɪˈmɒs.ɪ.ti/",
     "definition": "Strong hostility",
@@ -232,7 +256,7 @@
     "eg_2": "He felt no animosity towards his critics."
   },
   {
-    "day": 34,
+    "day": 33,
     "word": "Anomaly",
     "ipa": "/əˈnɒm.ə.li/",
     "definition": "Something that deviates from the norm",
@@ -240,7 +264,7 @@
     "eg_2": "Her calm reaction was an anomaly."
   },
   {
-    "day": 35,
+    "day": 34,
     "word": "Antipathy",
     "ipa": "/ænˈtɪp.ə.θi/",
     "definition": "A strong feeling of dislike",
@@ -248,7 +272,7 @@
     "eg_2": "Their mutual antipathy was obvious."
   },
   {
-    "day": 36,
+    "day": 35,
     "word": "Antithesis",
     "ipa": "/ænˈtɪθ.ə.sɪs/",
     "definition": "The direct opposite",
@@ -256,7 +280,7 @@
     "eg_2": "Her actions were the antithesis of her words."
   },
   {
-    "day": 37,
+    "day": 36,
     "word": "Apathetic",
     "ipa": "/ˌæp.əˈθet.ɪk/",
     "definition": "Showing little emotion",
@@ -264,7 +288,7 @@
     "eg_2": "He was apathetic towards the outcome."
   },
   {
-    "day": 38,
+    "day": 37,
     "word": "Apathy",
     "ipa": "/ˈæp.ə.θi/",
     "definition": "Lack of interest or concern",
@@ -272,7 +296,7 @@
     "eg_2": "She was criticized for her apathy."
   },
   {
-    "day": 39,
+    "day": 38,
     "word": "Apocryphal",
     "ipa": "/əˈpɒk.rɪ.fəl/",
     "definition": "Of doubtful authenticity",
@@ -280,7 +304,7 @@
     "eg_2": "He told an apocryphal tale about the event."
   },
   {
-    "day": 40,
+    "day": 39,
     "word": "Appease",
     "ipa": "/əˈpiːz/",
     "definition": "To calm or pacify",
@@ -288,7 +312,7 @@
     "eg_2": "She appeased her angry boss with an apology."
   },
   {
-    "day": 41,
+    "day": 40,
     "word": "Arbitrary",
     "ipa": "/ˈɑːr.bɪ.trer.i/",
     "definition": "Based on random choice",
@@ -296,7 +320,7 @@
     "eg_2": "He made an arbitrary selection."
   },
   {
-    "day": 42,
+    "day": 41,
     "word": "Archetype",
     "ipa": "/ˈɑː.kɪ.taɪp/",
     "definition": "A typical example of something",
@@ -304,7 +328,7 @@
     "eg_2": "The hero is an archetype in literature."
   },
   {
-    "day": 43,
+    "day": 42,
     "word": "Arduous",
     "ipa": "/ˈɑːr.dʒu.əs/",
     "definition": "Difficult and tiring",
@@ -312,7 +336,7 @@
     "eg_2": "He undertook the arduous journey."
   },
   {
-    "day": 44,
+    "day": 43,
     "word": "Articulate",
     "ipa": "/ɑːrˈtɪk.jə.lət/",
     "definition": "Able to express clearly",
@@ -320,7 +344,7 @@
     "eg_2": "He articulated his ideas well."
   },
   {
-    "day": 45,
+    "day": 44,
     "word": "Ascertain",
     "ipa": "/ˌæs.ɚˈteɪn/",
     "definition": "To find out for certain",
@@ -328,7 +352,7 @@
     "eg_2": "He ascertained the cause of the problem."
   },
   {
-    "day": 46,
+    "day": 45,
     "word": "Ascetic",
     "ipa": "/əˈset.ɪk/",
     "definition": "Practicing strict self-denial",
@@ -336,7 +360,7 @@
     "eg_2": "She adopted an ascetic diet."
   },
   {
-    "day": 47,
+    "day": 46,
     "word": "Aspire",
     "ipa": "/əˈspaɪr/",
     "definition": "To have a strong desire",
@@ -344,7 +368,7 @@
     "eg_2": "He aspired to greatness."
   },
   {
-    "day": 48,
+    "day": 47,
     "word": "Assiduous",
     "ipa": "/əˈsɪd.ju.əs/",
     "definition": "Showing great care and perseverance",
@@ -352,7 +376,7 @@
     "eg_2": "He worked assiduously on the project."
   },
   {
-    "day": 49,
+    "day": 48,
     "word": "Assuage",
     "ipa": "/əˈsweɪdʒ/",
     "definition": "To make less intense",
@@ -360,7 +384,7 @@
     "eg_2": "The speech assuaged public concern."
   },
   {
-    "day": 50,
+    "day": 49,
     "word": "Astute",
     "ipa": "/əˈstjuːt/",
     "definition": "Clever and perceptive",
@@ -368,7 +392,7 @@
     "eg_2": "His astute analysis impressed everyone."
   },
   {
-    "day": 51,
+    "day": 50,
     "word": "Audacious",
     "ipa": "/ɔːˈdeɪ.ʃəs/",
     "definition": "Bold and daring",
@@ -376,7 +400,7 @@
     "eg_2": "Her audacious plan surprised everyone."
   },
   {
-    "day": 52,
+    "day": 51,
     "word": "Augment",
     "ipa": "/ɔːɡˈment/",
     "definition": "To increase or make larger",
@@ -384,7 +408,7 @@
     "eg_2": "The company plans to augment its workforce."
   },
   {
-    "day": 53,
+    "day": 52,
     "word": "Austere",
     "ipa": "/ɔːˈstɪr/",
     "definition": "Severe or strict in manner",
@@ -392,7 +416,7 @@
     "eg_2": "The room was austere and bare."
   },
   {
-    "day": 54,
+    "day": 53,
     "word": "Autonomous",
     "ipa": "/ɔːˈtɒn.ə.məs/",
     "definition": "Self-governing",
@@ -400,7 +424,7 @@
     "eg_2": "They run an autonomous organization."
   },
   {
-    "day": 55,
+    "day": 54,
     "word": "Avarice",
     "ipa": "/ˈæv.ər.ɪs/",
     "definition": "Extreme greed",
@@ -408,7 +432,7 @@
     "eg_2": "The story is about avarice and betrayal."
   },
   {
-    "day": 56,
+    "day": 55,
     "word": "Avaricious",
     "ipa": "/ˌæv.əˈrɪʃ.əs/",
     "definition": "Greedy for wealth",
@@ -416,7 +440,7 @@
     "eg_2": "His avaricious nature was well known."
   },
   {
-    "day": 57,
+    "day": 56,
     "word": "Banal",
     "ipa": "/bəˈnɑːl/",
     "definition": "Lacking originality",
@@ -424,7 +448,7 @@
     "eg_2": "The plot was banal and predictable."
   },
   {
-    "day": 58,
+    "day": 57,
     "word": "Bellicose",
     "ipa": "/ˈbel.ɪ.kəʊs/",
     "definition": "Warlike or aggressive",
@@ -432,7 +456,7 @@
     "eg_2": "The country adopted a bellicose stance."
   },
   {
-    "day": 59,
+    "day": 58,
     "word": "Benevolent",
     "ipa": "/bəˈnev.ə.lənt/",
     "definition": "Well-meaning and kindly",
@@ -440,7 +464,7 @@
     "eg_2": "The foundation is known for its benevolence."
   },
   {
-    "day": 60,
+    "day": 59,
     "word": "Benign",
     "ipa": "/bɪˈnaɪn/",
     "definition": "Harmless; gentle",
@@ -448,7 +472,7 @@
     "eg_2": "He has a benign personality."
   },
   {
-    "day": 61,
+    "day": 60,
     "word": "Bequeath",
     "ipa": "/bɪˈkwiːð/",
     "definition": "To leave by will",
@@ -456,7 +480,7 @@
     "eg_2": "The painting was bequeathed to the museum."
   },
   {
-    "day": 62,
+    "day": 61,
     "word": "Berate",
     "ipa": "/bɪˈreɪt/",
     "definition": "To scold harshly",
@@ -464,7 +488,7 @@
     "eg_2": "She berated him for being late."
   },
   {
-    "day": 63,
+    "day": 62,
     "word": "Blatant",
     "ipa": "/ˈbleɪ.tənt/",
     "definition": "Obvious and offensive",
@@ -472,7 +496,7 @@
     "eg_2": "His disregard for the rules was blatant."
   },
   {
-    "day": 64,
+    "day": 63,
     "word": "Bolster",
     "ipa": "/ˈboʊl.stər/",
     "definition": "To support or strengthen",
@@ -480,7 +504,7 @@
     "eg_2": "The evidence bolstered his claim."
   },
   {
-    "day": 65,
+    "day": 64,
     "word": "Bombastic",
     "ipa": "/bɒmˈbæs.tɪk/",
     "definition": "High-sounding but with little meaning",
@@ -488,7 +512,7 @@
     "eg_2": "She criticized his bombastic language."
   },
   {
-    "day": 66,
+    "day": 65,
     "word": "Brevity",
     "ipa": "/ˈbrev.ɪ.ti/",
     "definition": "Concise and exact use of words",
@@ -496,7 +520,7 @@
     "eg_2": "Brevity is the soul of wit."
   },
   {
-    "day": 67,
+    "day": 66,
     "word": "Cacophony",
     "ipa": "/kəˈkɒf.ə.ni/",
     "definition": "A harsh, discordant mixture of sounds",
@@ -504,7 +528,7 @@
     "eg_2": "Her voice was lost in the cacophony."
   },
   {
-    "day": 68,
+    "day": 67,
     "word": "Cajole",
     "ipa": "/kəˈdʒoʊl/",
     "definition": "To persuade by flattery",
@@ -512,7 +536,7 @@
     "eg_2": "He was cajoled by his friends."
   },
   {
-    "day": 69,
+    "day": 68,
     "word": "Cajole",
     "ipa": "/kəˈdʒəʊl/",
     "definition": "To persuade by flattery",
@@ -520,7 +544,7 @@
     "eg_2": "He was cajoled by his friends."
   },
   {
-    "day": 70,
+    "day": 69,
     "word": "Candor",
     "ipa": "/ˈkæn.dər/",
     "definition": "Honesty and openness",
@@ -528,7 +552,7 @@
     "eg_2": "His candor was refreshing."
   },
   {
-    "day": 71,
+    "day": 70,
     "word": "Capitulate",
     "ipa": "/kəˈpɪtʃ.ə.leɪt/",
     "definition": "To surrender",
@@ -536,7 +560,7 @@
     "eg_2": "He capitulated to their demands."
   },
   {
-    "day": 72,
+    "day": 71,
     "word": "Capitulate",
     "ipa": "/kəˈpɪtjʊleɪt/",
     "definition": "Cease to resist an opponent or an unwelcome demand; surrender.",
@@ -544,7 +568,7 @@
     "eg_2": "She finally capitulated to his persistent requests."
   },
   {
-    "day": 73,
+    "day": 72,
     "word": "Capricious",
     "ipa": "/kəˈprɪʃ.əs/",
     "definition": "Impulsive and unpredictable",
@@ -552,7 +576,7 @@
     "eg_2": "The weather is capricious in spring."
   },
   {
-    "day": 74,
+    "day": 73,
     "word": "Catalyst",
     "ipa": "/ˈkæt.əl.ɪst/",
     "definition": "Something that speeds up a process",
@@ -560,7 +584,7 @@
     "eg_2": "Her speech was a catalyst for action."
   },
   {
-    "day": 75,
+    "day": 74,
     "word": "Cathartic",
     "ipa": "/kəˈθɑː.tɪk/",
     "definition": "Providing emotional relief",
@@ -568,7 +592,7 @@
     "eg_2": "The play was cathartic for the audience."
   },
   {
-    "day": 76,
+    "day": 75,
     "word": "Caustic",
     "ipa": "/ˈkɔː.stɪk/",
     "definition": "Sarcastic in a scathing way",
@@ -576,7 +600,7 @@
     "eg_2": "She made a caustic comment."
   },
   {
-    "day": 77,
+    "day": 76,
     "word": "Censure",
     "ipa": "/ˈsen.ʃər/",
     "definition": "To criticize harshly",
@@ -584,7 +608,7 @@
     "eg_2": "He faced public censure."
   },
   {
-    "day": 78,
+    "day": 77,
     "word": "Chastise",
     "ipa": "/tʃæsˈtaɪz/",
     "definition": "To punish or scold",
@@ -592,7 +616,7 @@
     "eg_2": "He was chastised for his behavior."
   },
   {
-    "day": 79,
+    "day": 78,
     "word": "Circumspect",
     "ipa": "/ˈsɜː.kəm.spekt/",
     "definition": "Cautious and unwilling to take risks",
@@ -600,7 +624,7 @@
     "eg_2": "He gave a circumspect response."
   },
   {
-    "day": 80,
+    "day": 79,
     "word": "Circumvent",
     "ipa": "/ˌsɜː.kəmˈvent/",
     "definition": "To find a way around an obstacle",
@@ -608,7 +632,7 @@
     "eg_2": "He circumvented the security system."
   },
   {
-    "day": 81,
+    "day": 80,
     "word": "Clandestine",
     "ipa": "/klænˈdes.tɪn/",
     "definition": "Kept secret or done secretly",
@@ -616,7 +640,7 @@
     "eg_2": "The operation was clandestine."
   },
   {
-    "day": 82,
+    "day": 81,
     "word": "Coalesce",
     "ipa": "/ˌkoʊ.əˈles/",
     "definition": "To come together to form one mass",
@@ -624,7 +648,7 @@
     "eg_2": "Ideas coalesced into a plan."
   },
   {
-    "day": 83,
+    "day": 82,
     "word": "Coerce",
     "ipa": "/koʊˈɜːrs/",
     "definition": "To force someone to do something",
@@ -632,7 +656,7 @@
     "eg_2": "They tried to coerce her into confessing."
   },
   {
-    "day": 84,
+    "day": 83,
     "word": "Cogent",
     "ipa": "/ˈkoʊ.dʒənt/",
     "definition": "Clear, logical, and convincing",
@@ -640,7 +664,7 @@
     "eg_2": "His explanation was cogent and concise."
   },
   {
-    "day": 85,
+    "day": 84,
     "word": "Coherent",
     "ipa": "/koʊˈhɪr.ənt/",
     "definition": "Logical and consistent",
@@ -648,7 +672,7 @@
     "eg_2": "She gave a coherent explanation."
   },
   {
-    "day": 86,
+    "day": 85,
     "word": "Colloquial",
     "ipa": "/kəˈloʊ.kwi.əl/",
     "definition": "Used in ordinary conversation",
@@ -656,7 +680,7 @@
     "eg_2": "The book is written in a colloquial style."
   },
   {
-    "day": 87,
+    "day": 86,
     "word": "Commensurate",
     "ipa": "/kəˈmen.sjər.ət/",
     "definition": "Corresponding in size or degree",
@@ -664,7 +688,7 @@
     "eg_2": "The punishment was commensurate with the crime."
   },
   {
-    "day": 88,
+    "day": 87,
     "word": "Commiserate",
     "ipa": "/kəˈmɪz.ə.reɪt/",
     "definition": "To express sympathy",
@@ -672,7 +696,7 @@
     "eg_2": "They commiserated over their shared troubles."
   },
   {
-    "day": 89,
+    "day": 88,
     "word": "Compassion",
     "ipa": "/kəmˈpæʃ.ən/",
     "definition": "Sympathy for others’ suffering",
@@ -680,7 +704,7 @@
     "eg_2": "His compassion is admirable."
   },
   {
-    "day": 90,
+    "day": 89,
     "word": "Complacent",
     "ipa": "/kəmˈpleɪ.sənt/",
     "definition": "Self-satisfied and unconcerned",
@@ -688,7 +712,7 @@
     "eg_2": "Don’t be complacent about your health."
   },
   {
-    "day": 91,
+    "day": 90,
     "word": "Comprehensive",
     "ipa": "/ˌkɒm.prɪˈhen.sɪv/",
     "definition": "Covering everything",
@@ -696,7 +720,7 @@
     "eg_2": "She gave a comprehensive overview."
   },
   {
-    "day": 92,
+    "day": 91,
     "word": "Concur",
     "ipa": "/kənˈkɜːr/",
     "definition": "To agree",
@@ -704,7 +728,7 @@
     "eg_2": "The committee concurred on the decision."
   },
   {
-    "day": 93,
+    "day": 92,
     "word": "Condone",
     "ipa": "/kənˈdoʊn/",
     "definition": "To accept or allow",
@@ -712,7 +736,7 @@
     "eg_2": "The school cannot condone such behavior."
   },
   {
-    "day": 94,
+    "day": 93,
     "word": "Conducive",
     "ipa": "/kənˈduː.sɪv/",
     "definition": "Making a situation likely or possible",
@@ -720,7 +744,7 @@
     "eg_2": "The environment is conducive to learning."
   },
   {
-    "day": 95,
+    "day": 94,
     "word": "Conflagration",
     "ipa": "/ˌkɒn.fləˈɡreɪ.ʃən/",
     "definition": "A large destructive fire",
@@ -728,7 +752,7 @@
     "eg_2": "Firefighters battled the conflagration."
   },
   {
-    "day": 96,
+    "day": 95,
     "word": "Connoisseur",
     "ipa": "/ˌkɒn.əˈsɜːr/",
     "definition": "An expert in matters of taste",
@@ -736,7 +760,7 @@
     "eg_2": "She is a connoisseur of art."
   },
   {
-    "day": 97,
+    "day": 96,
     "word": "Consensus",
     "ipa": "/kənˈsen.səs/",
     "definition": "General agreement",
@@ -744,7 +768,7 @@
     "eg_2": "The group reached a consensus."
   },
   {
-    "day": 98,
+    "day": 97,
     "word": "Conspicuous",
     "ipa": "/kənˈspɪk.ju.əs/",
     "definition": "Easily seen or noticed",
@@ -752,7 +776,7 @@
     "eg_2": "Her absence was conspicuous."
   },
   {
-    "day": 99,
+    "day": 98,
     "word": "Consternation",
     "ipa": "/ˌkɒn.stərˈneɪ.ʃən/",
     "definition": "Feelings of anxiety or dismay",
@@ -760,7 +784,7 @@
     "eg_2": "There was consternation among the staff."
   },
   {
-    "day": 100,
+    "day": 99,
     "word": "Construe",
     "ipa": "/kənˈstruː/",
     "definition": "To interpret",
@@ -768,7 +792,7 @@
     "eg_2": "The law can be construed in many ways."
   },
   {
-    "day": 101,
+    "day": 100,
     "word": "Contingent",
     "ipa": "/kənˈtɪn.dʒənt/",
     "definition": "Dependent on certain conditions",
@@ -776,7 +800,7 @@
     "eg_2": "His success is contingent on hard work."
   },
   {
-    "day": 102,
+    "day": 101,
     "word": "Contrite",
     "ipa": "/kənˈtraɪt/",
     "definition": "Feeling remorse",
@@ -784,7 +808,7 @@
     "eg_2": "She offered a contrite apology."
   },
   {
-    "day": 103,
+    "day": 102,
     "word": "Conundrum",
     "ipa": "/kəˈnʌn.drəm/",
     "definition": "A confusing problem",
@@ -792,7 +816,7 @@
     "eg_2": "He faced a moral conundrum."
   },
   {
-    "day": 104,
+    "day": 103,
     "word": "Copacetic",
     "ipa": "/ˌkoʊ.pəˈset.ɪk/",
     "definition": "In excellent order",
@@ -800,7 +824,7 @@
     "eg_2": "He assured her that things were copacetic."
   },
   {
-    "day": 105,
+    "day": 104,
     "word": "Copious",
     "ipa": "/ˈkoʊ.pi.əs/",
     "definition": "Abundant in supply",
@@ -808,7 +832,7 @@
     "eg_2": "There was copious evidence."
   },
   {
-    "day": 106,
+    "day": 105,
     "word": "Corroborate",
     "ipa": "/kəˈrɒb.ə.reɪt/",
     "definition": "To confirm or support",
@@ -816,7 +840,7 @@
     "eg_2": "The data corroborate the findings."
   },
   {
-    "day": 107,
+    "day": 106,
     "word": "Credulous",
     "ipa": "/ˈkrɛd.jʊ.ləs/",
     "definition": "Too ready to believe things",
@@ -824,7 +848,7 @@
     "eg_2": "Children are often credulous."
   },
   {
-    "day": 108,
+    "day": 107,
     "word": "Cryptic",
     "ipa": "/ˈkrɪp.tɪk/",
     "definition": "Having a hidden meaning",
@@ -832,7 +856,7 @@
     "eg_2": "His reply was cryptic and confusing."
   },
   {
-    "day": 109,
+    "day": 108,
     "word": "Culminate",
     "ipa": "/ˈkʌl.mɪ.neɪt/",
     "definition": "To reach a climax or point of highest development",
@@ -840,7 +864,7 @@
     "eg_2": "Their efforts culminated in success."
   },
   {
-    "day": 110,
+    "day": 109,
     "word": "Culpable",
     "ipa": "/ˈkʌl.pə.bəl/",
     "definition": "Deserving blame",
@@ -848,7 +872,7 @@
     "eg_2": "The manager was culpable for the loss."
   },
   {
-    "day": 111,
+    "day": 110,
     "word": "Cursory",
     "ipa": "/ˈkɜː.sər.i/",
     "definition": "Hasty and not thorough",
@@ -856,7 +880,7 @@
     "eg_2": "Her review was cursory."
   },
   {
-    "day": 112,
+    "day": 111,
     "word": "Daunt",
     "ipa": "/dɔːnt/",
     "definition": "To make someone feel intimidated",
@@ -864,7 +888,7 @@
     "eg_2": "She was daunted by the challenge."
   },
   {
-    "day": 113,
+    "day": 112,
     "word": "Dearth",
     "ipa": "/dɜːrθ/",
     "definition": "A lack or scarcity",
@@ -872,7 +896,7 @@
     "eg_2": "The region suffers from a dearth of water."
   },
   {
-    "day": 114,
+    "day": 113,
     "word": "Debacle",
     "ipa": "/deɪˈbɑː.kəl/",
     "definition": "A complete failure",
@@ -880,7 +904,7 @@
     "eg_2": "His plan ended in a debacle."
   },
   {
-    "day": 115,
+    "day": 114,
     "word": "Debilitate",
     "ipa": "/dɪˈbɪl.ɪ.teɪt/",
     "definition": "To weaken",
@@ -888,7 +912,7 @@
     "eg_2": "The storm debilitated the infrastructure."
   },
   {
-    "day": 116,
+    "day": 115,
     "word": "Decorum",
     "ipa": "/dɪˈkɔː.rəm/",
     "definition": "Proper behavior",
@@ -896,7 +920,7 @@
     "eg_2": "The event was conducted with decorum."
   },
   {
-    "day": 117,
+    "day": 116,
     "word": "Deference",
     "ipa": "/ˈdef.ər.əns/",
     "definition": "Respectful submission",
@@ -904,7 +928,7 @@
     "eg_2": "She acted with deference to authority."
   },
   {
-    "day": 118,
+    "day": 117,
     "word": "Deleterious",
     "ipa": "/ˌdel.ɪˈtɪə.ri.əs/",
     "definition": "Harmful",
@@ -912,7 +936,7 @@
     "eg_2": "The policy is deleterious to the economy."
   },
   {
-    "day": 119,
+    "day": 118,
     "word": "Delineate",
     "ipa": "/dɪˈlɪn.i.eɪt/",
     "definition": "To describe or outline",
@@ -920,7 +944,7 @@
     "eg_2": "The map delineates the boundaries."
   },
   {
-    "day": 120,
+    "day": 119,
     "word": "Demeanor",
     "ipa": "/dɪˈmiː.nər/",
     "definition": "Outward behavior",
@@ -928,7 +952,7 @@
     "eg_2": "He had a friendly demeanor."
   },
   {
-    "day": 121,
+    "day": 120,
     "word": "Demure",
     "ipa": "/dɪˈmjʊr/",
     "definition": "Modest and reserved",
@@ -936,7 +960,7 @@
     "eg_2": "Her demure appearance was deceiving."
   },
   {
-    "day": 122,
+    "day": 121,
     "word": "Denigrate",
     "ipa": "/ˈdenɪɡreɪt/",
     "definition": "Criticize unfairly; disparage.",
@@ -944,7 +968,7 @@
     "eg_2": "He denigrated her efforts despite her success."
   },
   {
-    "day": 123,
+    "day": 122,
     "word": "Denounce",
     "ipa": "/dɪˈnaʊns/",
     "definition": "To publicly condemn",
@@ -952,7 +976,7 @@
     "eg_2": "She denounced his actions."
   },
   {
-    "day": 124,
+    "day": 123,
     "word": "Depict",
     "ipa": "/dɪˈpɪkt/",
     "definition": "To represent in words or pictures",
@@ -960,7 +984,7 @@
     "eg_2": "The novel depicts life in the 19th century."
   },
   {
-    "day": 125,
+    "day": 124,
     "word": "Deride",
     "ipa": "/dɪˈraɪd/",
     "definition": "To mock or ridicule",
@@ -968,7 +992,7 @@
     "eg_2": "The proposal was derided as impractical."
   },
   {
-    "day": 126,
+    "day": 125,
     "word": "Desist",
     "ipa": "/dɪˈsɪst/",
     "definition": "To stop doing something",
@@ -976,7 +1000,7 @@
     "eg_2": "He was told to desist immediately."
   },
   {
-    "day": 127,
+    "day": 126,
     "word": "Desolate",
     "ipa": "/ˈdes.əl.ət/",
     "definition": "Deserted and lonely",
@@ -984,7 +1008,7 @@
     "eg_2": "She felt desolate in the new city."
   },
   {
-    "day": 128,
+    "day": 127,
     "word": "Despot",
     "ipa": "/ˈdes.pɒt/",
     "definition": "A ruler with absolute power",
@@ -992,7 +1016,7 @@
     "eg_2": "He acted like a despot."
   },
   {
-    "day": 129,
+    "day": 128,
     "word": "Detract",
     "ipa": "/dɪˈtrækt/",
     "definition": "To take away from",
@@ -1000,7 +1024,7 @@
     "eg_2": "His rude comments detracted from his speech."
   },
   {
-    "day": 130,
+    "day": 129,
     "word": "Detrimental",
     "ipa": "/ˌdet.rɪˈmen.təl/",
     "definition": "Causing harm",
@@ -1008,7 +1032,7 @@
     "eg_2": "Smoking is detrimental to health."
   },
   {
-    "day": 131,
+    "day": 130,
     "word": "Devoid",
     "ipa": "/dɪˈvɔɪd/",
     "definition": "Completely lacking",
@@ -1016,7 +1040,7 @@
     "eg_2": "His voice was devoid of warmth."
   },
   {
-    "day": 132,
+    "day": 131,
     "word": "Diaphanous",
     "ipa": "/daɪˈæf.ə.nəs/",
     "definition": "Light, delicate, and translucent",
@@ -1024,7 +1048,7 @@
     "eg_2": "The curtains were diaphanous and white."
   },
   {
-    "day": 133,
+    "day": 132,
     "word": "Diatribe",
     "ipa": "/ˈdaɪ.ə.traɪb/",
     "definition": "A bitter verbal attack",
@@ -1032,7 +1056,7 @@
     "eg_2": "Her speech was a diatribe."
   },
   {
-    "day": 134,
+    "day": 133,
     "word": "Dichotomy",
     "ipa": "/daɪˈkɒt.ə.mi/",
     "definition": "A division into two parts",
@@ -1040,7 +1064,7 @@
     "eg_2": "The dichotomy of good and evil is common in literature."
   },
   {
-    "day": 135,
+    "day": 134,
     "word": "Didactic",
     "ipa": "/daɪˈdæk.tɪk/",
     "definition": "Intended to teach",
@@ -1048,7 +1072,7 @@
     "eg_2": "His didactic style annoyed the students."
   },
   {
-    "day": 136,
+    "day": 135,
     "word": "Dilatory",
     "ipa": "/ˈdɪl.ə.tɔː.ri/",
     "definition": "Slow to act",
@@ -1056,7 +1080,7 @@
     "eg_2": "She was criticized for her dilatory tactics."
   },
   {
-    "day": 137,
+    "day": 136,
     "word": "Diligent",
     "ipa": "/ˈdɪl.ɪ.dʒənt/",
     "definition": "Hardworking and careful",
@@ -1064,7 +1088,7 @@
     "eg_2": "He completed the project diligently."
   },
   {
-    "day": 138,
+    "day": 137,
     "word": "Discern",
     "ipa": "/dɪˈsɜːrn/",
     "definition": "To recognize or detect",
@@ -1072,7 +1096,7 @@
     "eg_2": "She discerned a change in his mood."
   },
   {
-    "day": 139,
+    "day": 138,
     "word": "Discrepancy",
     "ipa": "/dɪˈskrep.ən.si/",
     "definition": "A difference or inconsistency",
@@ -1080,7 +1104,7 @@
     "eg_2": "The discrepancy was quickly resolved."
   },
   {
-    "day": 140,
+    "day": 139,
     "word": "Disdain",
     "ipa": "/dɪsˈdeɪn/",
     "definition": "Contempt or scorn",
@@ -1088,7 +1112,7 @@
     "eg_2": "She expressed disdain for the idea."
   },
   {
-    "day": 141,
+    "day": 140,
     "word": "Disparage",
     "ipa": "/dɪˈspær.ɪdʒ/",
     "definition": "To belittle or speak down to",
@@ -1096,7 +1120,7 @@
     "eg_2": "The article disparaged her work."
   },
   {
-    "day": 142,
+    "day": 141,
     "word": "Disparate",
     "ipa": "/ˈdɪs.pər.ət/",
     "definition": "Essentially different",
@@ -1104,7 +1128,7 @@
     "eg_2": "They have disparate interests."
   },
   {
-    "day": 143,
+    "day": 142,
     "word": "Disseminate",
     "ipa": "/dɪˈsem.ɪ.neɪt/",
     "definition": "To spread widely",
@@ -1112,7 +1136,7 @@
     "eg_2": "News was disseminated quickly."
   },
   {
-    "day": 144,
+    "day": 143,
     "word": "Dissent",
     "ipa": "/dɪˈsent/",
     "definition": "To disagree",
@@ -1120,7 +1144,7 @@
     "eg_2": "There was dissent among the members."
   },
   {
-    "day": 145,
+    "day": 144,
     "word": "Dissipate",
     "ipa": "/ˈdɪs.ɪ.peɪt/",
     "definition": "To scatter or disappear",
@@ -1128,7 +1152,7 @@
     "eg_2": "His anger dissipated over time."
   },
   {
-    "day": 146,
+    "day": 145,
     "word": "Dissonance",
     "ipa": "/ˈdɪs.ə.nəns/",
     "definition": "Lack of harmony",
@@ -1136,7 +1160,7 @@
     "eg_2": "The music was full of dissonance."
   },
   {
-    "day": 147,
+    "day": 146,
     "word": "Docile",
     "ipa": "/ˈdoʊ.saɪl/",
     "definition": "Easily taught or managed",
@@ -1144,7 +1168,7 @@
     "eg_2": "She was a docile student."
   },
   {
-    "day": 148,
+    "day": 147,
     "word": "Dogmatic",
     "ipa": "/dɒɡˈmæt.ɪk/",
     "definition": "Stubbornly opinionated",
@@ -1152,7 +1176,7 @@
     "eg_2": "Her dogmatic approach alienated others."
   },
   {
-    "day": 149,
+    "day": 148,
     "word": "Dubious",
     "ipa": "/ˈduː.bi.əs/",
     "definition": "Doubtful or suspicious",
@@ -1160,7 +1184,7 @@
     "eg_2": "The results are dubious at best."
   },
   {
-    "day": 150,
+    "day": 149,
     "word": "Duplicity",
     "ipa": "/duːˈplɪs.ɪ.ti/",
     "definition": "Deceitfulness",
@@ -1168,7 +1192,7 @@
     "eg_2": "Her duplicity was eventually revealed."
   },
   {
-    "day": 151,
+    "day": 150,
     "word": "Ebullient",
     "ipa": "/ɪˈbʌl.jənt/",
     "definition": "Cheerful and full of energy",
@@ -1176,7 +1200,7 @@
     "eg_2": "He greeted us in an ebullient manner."
   },
   {
-    "day": 152,
+    "day": 151,
     "word": "Eccentric",
     "ipa": "/ɪkˈsen.trɪk/",
     "definition": "Unconventional and slightly strange",
@@ -1184,7 +1208,7 @@
     "eg_2": "Her eccentric style attracts attention."
   },
   {
-    "day": 153,
+    "day": 152,
     "word": "Eclectic",
     "ipa": "/ɪˈklek.tɪk/",
     "definition": "Selecting from various sources",
@@ -1192,7 +1216,7 @@
     "eg_2": "The decor is eclectic."
   },
   {
-    "day": 154,
+    "day": 153,
     "word": "Edify",
     "ipa": "/ˈed.ɪ.faɪ/",
     "definition": "To instruct or improve",
@@ -1200,7 +1224,7 @@
     "eg_2": "He edified his students with stories."
   },
   {
-    "day": 155,
+    "day": 154,
     "word": "Efface",
     "ipa": "/ɪˈfeɪs/",
     "definition": "To erase or wipe out",
@@ -1208,7 +1232,7 @@
     "eg_2": "He tried to efface his past mistakes."
   },
   {
-    "day": 156,
+    "day": 155,
     "word": "Efficacious",
     "ipa": "/ˌef.ɪˈkeɪ.ʃəs/",
     "definition": "Effective; producing the desired result",
@@ -1216,7 +1240,7 @@
     "eg_2": "Her methods are efficacious."
   },
   {
-    "day": 157,
+    "day": 156,
     "word": "Egregious",
     "ipa": "/ɪˈɡriː.dʒəs/",
     "definition": "Outstandingly bad",
@@ -1224,7 +1248,7 @@
     "eg_2": "His behavior was egregious."
   },
   {
-    "day": 158,
+    "day": 157,
     "word": "Elicit",
     "ipa": "/ɪˈlɪs.ɪt/",
     "definition": "To draw out",
@@ -1232,7 +1256,7 @@
     "eg_2": "Her smile elicited a response."
   },
   {
-    "day": 159,
+    "day": 158,
     "word": "Elucidate",
     "ipa": "/ɪˈluː.sɪ.deɪt/",
     "definition": "To make clear",
@@ -1240,7 +1264,7 @@
     "eg_2": "The article elucidates the issue."
   },
   {
-    "day": 160,
+    "day": 159,
     "word": "Emphatic",
     "ipa": "/ɪmˈfæt.ɪk/",
     "definition": "Showing or giving emphasis",
@@ -1248,7 +1272,7 @@
     "eg_2": "He gave an emphatic denial."
   },
   {
-    "day": 161,
+    "day": 160,
     "word": "Emulate",
     "ipa": "/ˈem.jə.leɪt/",
     "definition": "To imitate or match",
@@ -1256,7 +1280,7 @@
     "eg_2": "She tried to emulate her role model."
   },
   {
-    "day": 162,
+    "day": 161,
     "word": "Enervate",
     "ipa": "/ˈen.ər.veɪt/",
     "definition": "To weaken",
@@ -1264,7 +1288,7 @@
     "eg_2": "The disease enervated him."
   },
   {
-    "day": 163,
+    "day": 162,
     "word": "Enfranchise",
     "ipa": "/ɪnˈfræn.tʃaɪz/",
     "definition": "To give the right to vote",
@@ -1272,7 +1296,7 @@
     "eg_2": "The movement aimed to enfranchise all citizens."
   },
   {
-    "day": 164,
+    "day": 163,
     "word": "Engender",
     "ipa": "/ɪnˈdʒen.dər/",
     "definition": "To cause or give rise to",
@@ -1280,7 +1304,7 @@
     "eg_2": "Her actions engendered trust."
   },
   {
-    "day": 165,
+    "day": 164,
     "word": "Enigma",
     "ipa": "/ɪˈnɪɡ.mə/",
     "definition": "A mystery or puzzle",
@@ -1288,7 +1312,7 @@
     "eg_2": "She remains an enigma."
   },
   {
-    "day": 166,
+    "day": 165,
     "word": "Ephemeral",
     "ipa": "/ɪˈfem.ər.əl/",
     "definition": "Lasting for a very short time",
@@ -1296,7 +1320,7 @@
     "eg_2": "The beauty of the sunset was ephemeral."
   },
   {
-    "day": 167,
+    "day": 166,
     "word": "Epiphany",
     "ipa": "/ɪˈpɪf.ə.ni/",
     "definition": "A sudden realization",
@@ -1304,7 +1328,7 @@
     "eg_2": "The story ends with an epiphany."
   },
   {
-    "day": 168,
+    "day": 167,
     "word": "Equanimity",
     "ipa": "/ˌek.wəˈnɪm.ə.ti/",
     "definition": "Calmness and composure",
@@ -1312,7 +1336,7 @@
     "eg_2": "He faced the crisis with equanimity."
   },
   {
-    "day": 169,
+    "day": 168,
     "word": "Equitable",
     "ipa": "/ˈek.wɪ.tə.bəl/",
     "definition": "Fair and impartial",
@@ -1320,7 +1344,7 @@
     "eg_2": "They reached an equitable agreement."
   },
   {
-    "day": 170,
+    "day": 169,
     "word": "Equivocal",
     "ipa": "/ɪˈkwɪv.ə.kəl/",
     "definition": "Open to more than one interpretation",
@@ -1328,7 +1352,7 @@
     "eg_2": "The evidence is equivocal."
   },
   {
-    "day": 171,
+    "day": 170,
     "word": "Eradicate",
     "ipa": "/ɪˈræd.ɪ.keɪt/",
     "definition": "To destroy completely",
@@ -1336,7 +1360,7 @@
     "eg_2": "Corruption must be eradicated."
   },
   {
-    "day": 172,
+    "day": 171,
     "word": "Erratic",
     "ipa": "/ɪˈræt.ɪk/",
     "definition": "Unpredictable",
@@ -1344,7 +1368,7 @@
     "eg_2": "The stock market is erratic."
   },
   {
-    "day": 173,
+    "day": 172,
     "word": "Erroneous",
     "ipa": "/ɪˈroʊ.ni.əs/",
     "definition": "Incorrect; wrong",
@@ -1352,7 +1376,7 @@
     "eg_2": "The report contained erroneous information."
   },
   {
-    "day": 174,
+    "day": 173,
     "word": "Eschew",
     "ipa": "/ɪsˈtʃuː/",
     "definition": "To avoid",
@@ -1360,7 +1384,7 @@
     "eg_2": "She eschewed publicity."
   },
   {
-    "day": 175,
+    "day": 174,
     "word": "Esoteric",
     "ipa": "/ˌes.əˈter.ɪk/",
     "definition": "Intended for a small group",
@@ -1368,7 +1392,7 @@
     "eg_2": "His writing is esoteric."
   },
   {
-    "day": 176,
+    "day": 175,
     "word": "Esoteric",
     "ipa": "/ˌiːsəˈterɪk/",
     "definition": "Intended for or likely to be understood by only a small number of people.",
@@ -1376,7 +1400,7 @@
     "eg_2": "Esoteric knowledge of the ritual was required to enter the temple."
   },
   {
-    "day": 177,
+    "day": 176,
     "word": "Espouse",
     "ipa": "/ɪˈspaʊz/",
     "definition": "To support or adopt",
@@ -1384,7 +1408,7 @@
     "eg_2": "She espouses traditional values."
   },
   {
-    "day": 178,
+    "day": 177,
     "word": "Ethereal",
     "ipa": "/ɪˈθɪr.i.əl/",
     "definition": "Extremely delicate and light",
@@ -1392,7 +1416,7 @@
     "eg_2": "Her beauty is ethereal."
   },
   {
-    "day": 179,
+    "day": 178,
     "word": "Euphoria",
     "ipa": "/juːˈfɔːr.i.ə/",
     "definition": "A feeling of great happiness",
@@ -1400,7 +1424,7 @@
     "eg_2": "Winning the prize brought euphoria."
   },
   {
-    "day": 180,
+    "day": 179,
     "word": "Evanescent",
     "ipa": "/ˌev.əˈnes.ənt/",
     "definition": "Quickly fading",
@@ -1408,7 +1432,7 @@
     "eg_2": "His fame was evanescent."
   },
   {
-    "day": 181,
+    "day": 180,
     "word": "Evince",
     "ipa": "/ɪˈvɪns/",
     "definition": "To show clearly",
@@ -1416,7 +1440,7 @@
     "eg_2": "Her smile evinced her happiness."
   },
   {
-    "day": 182,
+    "day": 181,
     "word": "Exacerbate",
     "ipa": "/ɪɡˈzæs.ər.beɪt/",
     "definition": "To make worse",
@@ -1424,7 +1448,7 @@
     "eg_2": "His comments exacerbated the situation."
   },
   {
-    "day": 183,
+    "day": 182,
     "word": "Exculpate",
     "ipa": "/ˈeks.kʌl.peɪt/",
     "definition": "To clear from blame",
@@ -1432,7 +1456,7 @@
     "eg_2": "The witness exculpated her."
   },
   {
-    "day": 184,
+    "day": 183,
     "word": "Exemplary",
     "ipa": "/ɪɡˈzem.plə.ri/",
     "definition": "Serving as a model",
@@ -1440,7 +1464,7 @@
     "eg_2": "He set an exemplary standard."
   },
   {
-    "day": 185,
+    "day": 184,
     "word": "Exhort",
     "ipa": "/ɪɡˈzɔːrt/",
     "definition": "To strongly encourage",
@@ -1448,7 +1472,7 @@
     "eg_2": "She exhorted him to study harder."
   },
   {
-    "day": 186,
+    "day": 185,
     "word": "Exigent",
     "ipa": "/ˈek.sɪ.dʒənt/",
     "definition": "Urgent; requiring immediate action",
@@ -1456,7 +1480,7 @@
     "eg_2": "Exigent circumstances forced a decision."
   },
   {
-    "day": 187,
+    "day": 186,
     "word": "Expedite",
     "ipa": "/ˈek.spə.daɪt/",
     "definition": "To speed up",
@@ -1464,7 +1488,7 @@
     "eg_2": "He expedited the shipment."
   },
   {
-    "day": 188,
+    "day": 187,
     "word": "Explicit",
     "ipa": "/ɪkˈsplɪs.ɪt/",
     "definition": "Clearly stated",
@@ -1472,7 +1496,7 @@
     "eg_2": "The contract is explicit."
   },
   {
-    "day": 189,
+    "day": 188,
     "word": "Extol",
     "ipa": "/ɪkˈstoʊl/",
     "definition": "To praise highly",
@@ -1480,7 +1504,7 @@
     "eg_2": "The teacher extolled the student's efforts."
   },
   {
-    "day": 190,
+    "day": 189,
     "word": "Extraneous",
     "ipa": "/ɪkˈstreɪ.ni.əs/",
     "definition": "Irrelevant or unrelated",
@@ -1488,7 +1512,7 @@
     "eg_2": "His comments were extraneous."
   },
   {
-    "day": 191,
+    "day": 190,
     "word": "Facetious",
     "ipa": "/fəˈsiː.ʃəs/",
     "definition": "Not meant to be taken seriously",
@@ -1496,7 +1520,7 @@
     "eg_2": "Her facetious tone annoyed him."
   },
   {
-    "day": 192,
+    "day": 191,
     "word": "Fallacious",
     "ipa": "/fəˈleɪ.ʃəs/",
     "definition": "Based on a mistaken belief",
@@ -1504,7 +1528,7 @@
     "eg_2": "The reasoning was fallacious."
   },
   {
-    "day": 193,
+    "day": 192,
     "word": "Fallacy",
     "ipa": "/ˈfæl.ə.si/",
     "definition": "A mistaken belief",
@@ -1512,7 +1536,7 @@
     "eg_2": "It's a common fallacy."
   },
   {
-    "day": 194,
+    "day": 193,
     "word": "Fastidious",
     "ipa": "/fæˈstɪd.i.əs/",
     "definition": "Very attentive to detail",
@@ -1520,7 +1544,7 @@
     "eg_2": "His fastidious nature slows him down."
   },
   {
-    "day": 195,
+    "day": 194,
     "word": "Fastidious",
     "ipa": "/fæˈstɪdiəs/",
     "definition": "Very attentive to detail; hard to please.",
@@ -1528,7 +1552,7 @@
     "eg_2": "Her fastidious nature made her an excellent editor."
   },
   {
-    "day": 196,
+    "day": 195,
     "word": "Fatuous",
     "ipa": "/ˈfætʃ.u.əs/",
     "definition": "Silly and pointless",
@@ -1536,7 +1560,7 @@
     "eg_2": "The conversation was fatuous."
   },
   {
-    "day": 197,
+    "day": 196,
     "word": "Feasible",
     "ipa": "/ˈfiː.zə.bəl/",
     "definition": "Possible and practical",
@@ -1544,7 +1568,7 @@
     "eg_2": "It is not feasible to finish today."
   },
   {
-    "day": 198,
+    "day": 197,
     "word": "Fervent",
     "ipa": "/ˈfɜːr.vənt/",
     "definition": "Having strong feelings",
@@ -1552,7 +1576,7 @@
     "eg_2": "His fervent speech inspired many."
   },
   {
-    "day": 199,
+    "day": 198,
     "word": "Fervor",
     "ipa": "/ˈfɜːr.vər/",
     "definition": "Intense and passionate feeling",
@@ -1560,7 +1584,7 @@
     "eg_2": "The crowd cheered with fervor."
   },
   {
-    "day": 200,
+    "day": 199,
     "word": "Flagrant",
     "ipa": "/ˈfleɪ.ɡrənt/",
     "definition": "Obviously offensive",
@@ -1568,7 +1592,7 @@
     "eg_2": "His disregard for the rules was flagrant."
   },
   {
-    "day": 201,
+    "day": 200,
     "word": "Fluctuate",
     "ipa": "/ˈflʌk.tʃu.eɪt/",
     "definition": "To rise and fall",
@@ -1576,7 +1600,7 @@
     "eg_2": "His mood fluctuates."
   },
   {
-    "day": 202,
+    "day": 201,
     "word": "Flummox",
     "ipa": "/ˈflʌm.əks/",
     "definition": "To confuse or perplex",
@@ -1584,7 +1608,7 @@
     "eg_2": "He was flummoxed by the instructions."
   },
   {
-    "day": 203,
+    "day": 202,
     "word": "Fortitude",
     "ipa": "/ˈfɔːr.tɪ.tuːd/",
     "definition": "Courage in pain or adversity",
@@ -1592,7 +1616,7 @@
     "eg_2": "His fortitude inspired others."
   },
   {
-    "day": 204,
+    "day": 203,
     "word": "Fortuitous",
     "ipa": "/fɔːrˈtuː.ɪ.təs/",
     "definition": "Happening by chance",
@@ -1600,7 +1624,7 @@
     "eg_2": "It was a fortuitous discovery."
   },
   {
-    "day": 205,
+    "day": 204,
     "word": "Frivolous",
     "ipa": "/ˈfrɪv.ə.ləs/",
     "definition": "Not serious",
@@ -1608,7 +1632,7 @@
     "eg_2": "The lawsuit is frivolous."
   },
   {
-    "day": 206,
+    "day": 205,
     "word": "Frugal",
     "ipa": "/ˈfruː.ɡəl/",
     "definition": "Economical",
@@ -1616,7 +1640,7 @@
     "eg_2": "They live a frugal lifestyle."
   },
   {
-    "day": 207,
+    "day": 206,
     "word": "Furtive",
     "ipa": "/ˈfɜːr.tɪv/",
     "definition": "Secretive",
@@ -1624,7 +1648,7 @@
     "eg_2": "Their furtive meeting raised suspicion."
   },
   {
-    "day": 208,
+    "day": 207,
     "word": "Garner",
     "ipa": "/ˈɡɑːr.nər/",
     "definition": "To gather or collect",
@@ -1632,7 +1656,7 @@
     "eg_2": "The film garnered several awards."
   },
   {
-    "day": 209,
+    "day": 208,
     "word": "Garrulous",
     "ipa": "/ˈɡær.ə.ləs/",
     "definition": "Excessively talkative",
@@ -1640,7 +1664,7 @@
     "eg_2": "Her garrulous nature is charming."
   },
   {
-    "day": 210,
+    "day": 209,
     "word": "Garrulous",
     "ipa": "/ˈɡærələs/",
     "definition": "Excessively talkative, especially on trivial matters.",
@@ -1648,7 +1672,7 @@
     "eg_2": "The garrulous host kept the conversation going all night."
   },
   {
-    "day": 211,
+    "day": 210,
     "word": "Germane",
     "ipa": "/dʒɜːrˈmeɪn/",
     "definition": "Relevant to the subject",
@@ -1656,7 +1680,7 @@
     "eg_2": "Only germane issues will be addressed."
   },
   {
-    "day": 212,
+    "day": 211,
     "word": "Grandiose",
     "ipa": "/ˈɡræn.di.oʊs/",
     "definition": "Impressive but not practical",
@@ -1664,7 +1688,7 @@
     "eg_2": "The building was grandiose."
   },
   {
-    "day": 213,
+    "day": 212,
     "word": "Gregarious",
     "ipa": "/ɡrɪˈɡer.i.əs/",
     "definition": "Sociable",
@@ -1672,7 +1696,7 @@
     "eg_2": "Gregarious animals live in groups."
   },
   {
-    "day": 214,
+    "day": 213,
     "word": "Guile",
     "ipa": "/ɡaɪl/",
     "definition": "Sly or cunning intelligence",
@@ -1680,7 +1704,7 @@
     "eg_2": "Her guile impressed her colleagues."
   },
   {
-    "day": 215,
+    "day": 214,
     "word": "Hackneyed",
     "ipa": "/ˈhæk.nid/",
     "definition": "Overused and unoriginal",
@@ -1688,7 +1712,7 @@
     "eg_2": "His speech was full of hackneyed phrases."
   },
   {
-    "day": 216,
+    "day": 215,
     "word": "Haphazard",
     "ipa": "/ˌhæpˈhæz.ərd/",
     "definition": "Lacking order",
@@ -1696,7 +1720,7 @@
     "eg_2": "His work is haphazard."
   },
   {
-    "day": 217,
+    "day": 216,
     "word": "Hapless",
     "ipa": "/ˈhæp.ləs/",
     "definition": "Unfortunate",
@@ -1704,7 +1728,7 @@
     "eg_2": "He is a hapless victim of circumstance."
   },
   {
-    "day": 218,
+    "day": 217,
     "word": "Harangue",
     "ipa": "/həˈræŋ/",
     "definition": "A lengthy and aggressive speech",
@@ -1712,7 +1736,7 @@
     "eg_2": "She listened to his harangue."
   },
   {
-    "day": 219,
+    "day": 218,
     "word": "Harangue",
     "ipa": "/həˈræŋ/",
     "definition": "A lengthy and aggressive speech.",
@@ -1720,7 +1744,7 @@
     "eg_2": "The coach’s harangue motivated the team to do better."
   },
   {
-    "day": 220,
+    "day": 219,
     "word": "Harbinger",
     "ipa": "/ˈhɑːr.bɪn.dʒər/",
     "definition": "A sign of something to come",
@@ -1728,7 +1752,7 @@
     "eg_2": "Dark clouds are a harbinger of rain."
   },
   {
-    "day": 221,
+    "day": 220,
     "word": "Hedge",
     "ipa": "/hedʒ/",
     "definition": "To avoid giving a clear answer",
@@ -1736,7 +1760,7 @@
     "eg_2": "She hedged her bets."
   },
   {
-    "day": 222,
+    "day": 221,
     "word": "Hedonist",
     "ipa": "/ˈhiː.də.nɪst/",
     "definition": "A pleasure-seeker",
@@ -1744,7 +1768,7 @@
     "eg_2": "The novel features a hedonist."
   },
   {
-    "day": 223,
+    "day": 222,
     "word": "Heretic",
     "ipa": "/ˈher.ə.tɪk/",
     "definition": "Someone with unorthodox beliefs",
@@ -1752,7 +1776,7 @@
     "eg_2": "The church condemned her as a heretic."
   },
   {
-    "day": 224,
+    "day": 223,
     "word": "Hiatus",
     "ipa": "/haɪˈeɪ.təs/",
     "definition": "A pause or gap",
@@ -1760,7 +1784,7 @@
     "eg_2": "There was a hiatus in the conversation."
   },
   {
-    "day": 225,
+    "day": 224,
     "word": "Hypothetical",
     "ipa": "/ˌhaɪ.pəˈθet.ɪ.kəl/",
     "definition": "Based on a hypothesis",
@@ -1768,7 +1792,7 @@
     "eg_2": "The question is hypothetical."
   },
   {
-    "day": 226,
+    "day": 225,
     "word": "Iconic",
     "ipa": "/aɪˈkɒn.ɪk/",
     "definition": "Widely recognized and well-established",
@@ -1776,7 +1800,7 @@
     "eg_2": "Her style is iconic."
   },
   {
-    "day": 227,
+    "day": 226,
     "word": "Iconoclast",
     "ipa": "/aɪˈkɒn.ə.klæst/",
     "definition": "One who attacks established beliefs",
@@ -1784,7 +1808,7 @@
     "eg_2": "The artist is an iconoclast."
   },
   {
-    "day": 228,
+    "day": 227,
     "word": "Idiosyncrasy",
     "ipa": "/ˌɪd.i.əˈsɪŋ.krə.si/",
     "definition": "A peculiar trait",
@@ -1792,7 +1816,7 @@
     "eg_2": "She has many idiosyncrasies."
   },
   {
-    "day": 229,
+    "day": 228,
     "word": "Ignominious",
     "ipa": "/ˌɪɡ.nəˈmɪn.i.əs/",
     "definition": "Deserving or causing public disgrace",
@@ -1800,7 +1824,7 @@
     "eg_2": "The scandal was ignominious."
   },
   {
-    "day": 230,
+    "day": 229,
     "word": "Illicit",
     "ipa": "/ɪˈlɪs.ɪt/",
     "definition": "Forbidden by law",
@@ -1808,7 +1832,7 @@
     "eg_2": "Illicit drugs are dangerous."
   },
   {
-    "day": 231,
+    "day": 230,
     "word": "Immaculate",
     "ipa": "/ɪˈmæk.jə.lət/",
     "definition": "Perfectly clean",
@@ -1816,7 +1840,7 @@
     "eg_2": "She kept her desk immaculate."
   },
   {
-    "day": 232,
+    "day": 231,
     "word": "Imminent",
     "ipa": "/ˈɪm.ɪ.nənt/",
     "definition": "About to happen",
@@ -1824,7 +1848,7 @@
     "eg_2": "His resignation is imminent."
   },
   {
-    "day": 233,
+    "day": 232,
     "word": "Impasse",
     "ipa": "/ˈɪm.pæs/",
     "definition": "A situation with no way out",
@@ -1832,7 +1856,7 @@
     "eg_2": "They are at an impasse."
   },
   {
-    "day": 234,
+    "day": 233,
     "word": "Impeccable",
     "ipa": "/ɪmˈpek.ə.bəl/",
     "definition": "Flawless",
@@ -1840,7 +1864,7 @@
     "eg_2": "He has impeccable taste."
   },
   {
-    "day": 235,
+    "day": 234,
     "word": "Imperative",
     "ipa": "/ɪmˈper.ə.tɪv/",
     "definition": "Absolutely necessary",
@@ -1848,7 +1872,7 @@
     "eg_2": "Safety is imperative."
   },
   {
-    "day": 236,
+    "day": 235,
     "word": "Impervious",
     "ipa": "/ɪmˈpɜːr.vi.əs/",
     "definition": "Not affected by",
@@ -1856,7 +1880,7 @@
     "eg_2": "The material is impervious to water."
   },
   {
-    "day": 237,
+    "day": 236,
     "word": "Impetuous",
     "ipa": "/ɪmˈpetʃ.u.əs/",
     "definition": "Acting quickly without thought",
@@ -1864,7 +1888,7 @@
     "eg_2": "She is impetuous by nature."
   },
   {
-    "day": 238,
+    "day": 237,
     "word": "Implacable",
     "ipa": "/ɪmˈplæk.ə.bəl/",
     "definition": "Unable to be calmed",
@@ -1872,7 +1896,7 @@
     "eg_2": "Her anger was implacable."
   },
   {
-    "day": 239,
+    "day": 238,
     "word": "Implicit",
     "ipa": "/ɪmˈplɪs.ɪt/",
     "definition": "Implied but not stated",
@@ -1880,7 +1904,7 @@
     "eg_2": "Her trust was implicit."
   },
   {
-    "day": 240,
+    "day": 239,
     "word": "Impromptu",
     "ipa": "/ɪmˈprɒmp.tuː/",
     "definition": "Done without preparation",
@@ -1888,7 +1912,7 @@
     "eg_2": "The meeting was impromptu."
   },
   {
-    "day": 241,
+    "day": 240,
     "word": "Impugn",
     "ipa": "/ɪmˈpjuːn/",
     "definition": "To challenge as false",
@@ -1896,7 +1920,7 @@
     "eg_2": "His integrity was impugned."
   },
   {
-    "day": 242,
+    "day": 241,
     "word": "Inadvertent",
     "ipa": "/ˌɪn.ədˈvɜːr.tənt/",
     "definition": "Unintentional",
@@ -1904,7 +1928,7 @@
     "eg_2": "Her insult was inadvertent."
   },
   {
-    "day": 243,
+    "day": 242,
     "word": "Incessant",
     "ipa": "/ɪnˈses.ənt/",
     "definition": "Never stopping",
@@ -1912,7 +1936,7 @@
     "eg_2": "He complained about the incessant rain."
   },
   {
-    "day": 244,
+    "day": 243,
     "word": "Incisive",
     "ipa": "/ɪnˈsaɪ.sɪv/",
     "definition": "Clear and direct",
@@ -1920,7 +1944,7 @@
     "eg_2": "He gave an incisive summary."
   },
   {
-    "day": 245,
+    "day": 244,
     "word": "Incongruous",
     "ipa": "/ɪnˈkɒŋ.ɡru.əs/",
     "definition": "Not in harmony",
@@ -1928,7 +1952,7 @@
     "eg_2": "The modern art was incongruous in the old building."
   },
   {
-    "day": 246,
+    "day": 245,
     "word": "Incorrigible",
     "ipa": "/ɪnˈkɒr.ɪ.dʒə.bəl/",
     "definition": "Not able to be corrected",
@@ -1936,7 +1960,7 @@
     "eg_2": "Her habits are incorrigible."
   },
   {
-    "day": 247,
+    "day": 246,
     "word": "Indigent",
     "ipa": "/ˈɪn.dɪ.dʒənt/",
     "definition": "Poor; needy",
@@ -1944,7 +1968,7 @@
     "eg_2": "The indigent man asked for food."
   },
   {
-    "day": 248,
+    "day": 247,
     "word": "Indolent",
     "ipa": "/ˈɪn.də.lənt/",
     "definition": "Lazy",
@@ -1952,7 +1976,7 @@
     "eg_2": "Her indolence annoyed her boss."
   },
   {
-    "day": 249,
+    "day": 248,
     "word": "Ineffable",
     "ipa": "/ɪnˈef.ə.bəl/",
     "definition": "Too great to be described",
@@ -1960,7 +1984,7 @@
     "eg_2": "He felt ineffable joy."
   },
   {
-    "day": 250,
+    "day": 249,
     "word": "Inept",
     "ipa": "/ɪˈnept/",
     "definition": "Clumsy or incompetent",
@@ -1968,7 +1992,7 @@
     "eg_2": "Her inept handling of the situation was obvious."
   },
   {
-    "day": 251,
+    "day": 250,
     "word": "Inexorable",
     "ipa": "/ɪnˈek.sər.ə.bəl/",
     "definition": "Impossible to stop",
@@ -1976,7 +2000,7 @@
     "eg_2": "Her determination was inexorable."
   },
   {
-    "day": 252,
+    "day": 251,
     "word": "Infallible",
     "ipa": "/ɪnˈfæl.ə.bəl/",
     "definition": "Incapable of making mistakes",
@@ -1984,7 +2008,7 @@
     "eg_2": "No one is infallible."
   },
   {
-    "day": 253,
+    "day": 252,
     "word": "Infamy",
     "ipa": "/ˈɪn.fə.mi/",
     "definition": "Evil fame or reputation",
@@ -1992,7 +2016,7 @@
     "eg_2": "The scandal brought infamy."
   },
   {
-    "day": 254,
+    "day": 253,
     "word": "Ingenious",
     "ipa": "/ɪnˈdʒiː.ni.əs/",
     "definition": "Clever and inventive",
@@ -2000,7 +2024,7 @@
     "eg_2": "His plan was ingenious."
   },
   {
-    "day": 255,
+    "day": 254,
     "word": "Ingratiate",
     "ipa": "/ɪnˈɡreɪ.ʃi.eɪt/",
     "definition": "To gain favor",
@@ -2008,7 +2032,7 @@
     "eg_2": "She ingratiated herself with compliments."
   },
   {
-    "day": 256,
+    "day": 255,
     "word": "Inhibit",
     "ipa": "/ɪnˈhɪb.ɪt/",
     "definition": "To hold back",
@@ -2016,7 +2040,7 @@
     "eg_2": "The rules inhibit creativity."
   },
   {
-    "day": 257,
+    "day": 256,
     "word": "Innate",
     "ipa": "/ɪˈneɪt/",
     "definition": "Inborn; natural",
@@ -2024,7 +2048,7 @@
     "eg_2": "His sense of humor is innate."
   },
   {
-    "day": 258,
+    "day": 257,
     "word": "Innocuous",
     "ipa": "/ɪˈnɒk.ju.əs/",
     "definition": "Harmless",
@@ -2032,7 +2056,7 @@
     "eg_2": "The substance is innocuous."
   },
   {
-    "day": 259,
+    "day": 258,
     "word": "Insatiable",
     "ipa": "/ɪnˈseɪ.ʃə.bəl/",
     "definition": "Impossible to satisfy",
@@ -2040,7 +2064,7 @@
     "eg_2": "Her curiosity is insatiable."
   },
   {
-    "day": 260,
+    "day": 259,
     "word": "Inscrutable",
     "ipa": "/ɪnˈskruː.tə.bəl/",
     "definition": "Impossible to understand",
@@ -2048,7 +2072,7 @@
     "eg_2": "The mystery is inscrutable."
   },
   {
-    "day": 261,
+    "day": 260,
     "word": "Insidious",
     "ipa": "/ɪnˈsɪd.i.əs/",
     "definition": "Proceeding in a gradual, harmful way",
@@ -2056,7 +2080,7 @@
     "eg_2": "His plan was insidious."
   },
   {
-    "day": 262,
+    "day": 261,
     "word": "Insipid",
     "ipa": "/ɪnˈsɪp.ɪd/",
     "definition": "Lacking flavor or interest",
@@ -2064,7 +2088,7 @@
     "eg_2": "His speech was insipid."
   },
   {
-    "day": 263,
+    "day": 262,
     "word": "Intransigent",
     "ipa": "/ɪnˈtrænsɪdʒənt/",
     "definition": "Unwilling or refusing to change one's views or to agree about something.",
@@ -2072,7 +2096,7 @@
     "eg_2": "His intransigent attitude frustrated the negotiators."
   },
   {
-    "day": 264,
+    "day": 263,
     "word": "Intrepid",
     "ipa": "/ɪnˈtrep.ɪd/",
     "definition": "Fearless",
@@ -2080,7 +2104,7 @@
     "eg_2": "The intrepid reporter covered the war."
   },
   {
-    "day": 265,
+    "day": 264,
     "word": "Inundate",
     "ipa": "/ˈɪn.ʌn.deɪt/",
     "definition": "To flood or overwhelm",
@@ -2088,7 +2112,7 @@
     "eg_2": "The town was inundated by the river."
   },
   {
-    "day": 266,
+    "day": 265,
     "word": "Irascible",
     "ipa": "/ɪˈræs.ə.bəl/",
     "definition": "Easily angered",
@@ -2096,7 +2120,7 @@
     "eg_2": "Her irascible temper is well known."
   },
   {
-    "day": 267,
+    "day": 266,
     "word": "Itinerant",
     "ipa": "/aɪˈtɪn.ər.ənt/",
     "definition": "Traveling from place to place",
@@ -2104,7 +2128,7 @@
     "eg_2": "The itinerant musician performed in many cities."
   },
   {
-    "day": 268,
+    "day": 267,
     "word": "Jocular",
     "ipa": "/ˈdʒɒk.jʊ.lər/",
     "definition": "Fond of joking",
@@ -2112,7 +2136,7 @@
     "eg_2": "She has a jocular personality."
   },
   {
-    "day": 269,
+    "day": 268,
     "word": "Juxtapose",
     "ipa": "/ˌdʒʌk.stəˈpoʊz/",
     "definition": "To place side by side",
@@ -2120,7 +2144,7 @@
     "eg_2": "The photos were juxtaposed for effect."
   },
   {
-    "day": 270,
+    "day": 269,
     "word": "Juxtapose",
     "ipa": "/ˌdʒʌkstəˈpəʊz/",
     "definition": "To place side by side for comparison or contrast.",
@@ -2128,7 +2152,7 @@
     "eg_2": "She juxtaposed the two photos to highlight the differences."
   },
   {
-    "day": 271,
+    "day": 270,
     "word": "Juxtaposition",
     "ipa": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
     "definition": "Placing things side by side for contrast",
@@ -2136,7 +2160,7 @@
     "eg_2": "Her work explores the juxtaposition of light and dark."
   },
   {
-    "day": 272,
+    "day": 271,
     "word": "Kowtow",
     "ipa": "/ˈkaʊtaʊ/",
     "definition": "To act in an excessively subservient manner.",
@@ -2144,7 +2168,7 @@
     "eg_2": "Politicians shouldn’t kowtow to lobbyists."
   },
   {
-    "day": 273,
+    "day": 272,
     "word": "Laconic",
     "ipa": "/ləˈkɒn.ɪk/",
     "definition": "Using few words",
@@ -2152,7 +2176,7 @@
     "eg_2": "She is known for her laconic wit."
   },
   {
-    "day": 274,
+    "day": 273,
     "word": "Laconic",
     "ipa": "/ləˈkɒnɪk/",
     "definition": "Using very few words; concise to the point of seeming rude or mysterious.",
@@ -2160,7 +2184,7 @@
     "eg_2": "She gave a laconic answer to the lengthy question."
   },
   {
-    "day": 275,
+    "day": 274,
     "word": "Lament",
     "ipa": "/ləˈment/",
     "definition": "To express sorrow",
@@ -2168,7 +2192,7 @@
     "eg_2": "She lamented her decision."
   },
   {
-    "day": 276,
+    "day": 275,
     "word": "Languid",
     "ipa": "/ˈlæŋ.ɡwɪd/",
     "definition": "Slow and relaxed",
@@ -2176,7 +2200,7 @@
     "eg_2": "The hot weather made everyone languid."
   },
   {
-    "day": 277,
+    "day": 276,
     "word": "Latent",
     "ipa": "/ˈleɪ.tənt/",
     "definition": "Hidden but present",
@@ -2184,7 +2208,7 @@
     "eg_2": "The disease was latent."
   },
   {
-    "day": 278,
+    "day": 277,
     "word": "Laud",
     "ipa": "/lɔːd/",
     "definition": "To praise highly",
@@ -2192,7 +2216,7 @@
     "eg_2": "The book was lauded by critics."
   },
   {
-    "day": 279,
+    "day": 278,
     "word": "Lethargic",
     "ipa": "/ləˈθɑːr.dʒɪk/",
     "definition": "Sluggish and apathetic",
@@ -2200,7 +2224,7 @@
     "eg_2": "The heat made everyone lethargic."
   },
   {
-    "day": 280,
+    "day": 279,
     "word": "Loquacious",
     "ipa": "/ləˈkweɪ.ʃəs/",
     "definition": "Very talkative",
@@ -2208,7 +2232,7 @@
     "eg_2": "His loquacious nature is entertaining."
   },
   {
-    "day": 281,
+    "day": 280,
     "word": "Lucid",
     "ipa": "/ˈluː.sɪd/",
     "definition": "Clear and easy to understand",
@@ -2216,7 +2240,7 @@
     "eg_2": "She is lucid even under stress."
   },
   {
-    "day": 282,
+    "day": 281,
     "word": "Lucrative",
     "ipa": "/ˈluː.krə.tɪv/",
     "definition": "Producing a lot of money",
@@ -2224,7 +2248,7 @@
     "eg_2": "The contract is lucrative."
   },
   {
-    "day": 283,
+    "day": 282,
     "word": "Magnanimous",
     "ipa": "/mæɡˈnæn.ɪ.məs/",
     "definition": "Generous and forgiving",
@@ -2232,7 +2256,7 @@
     "eg_2": "His magnanimous gesture surprised everyone."
   },
   {
-    "day": 284,
+    "day": 283,
     "word": "Malevolent",
     "ipa": "/məˈlev.ə.lənt/",
     "definition": "Wishing harm to others",
@@ -2240,7 +2264,7 @@
     "eg_2": "The villain is malevolent."
   },
   {
-    "day": 285,
+    "day": 284,
     "word": "Malign",
     "ipa": "/məˈlaɪn/",
     "definition": "To speak evil of",
@@ -2248,7 +2272,7 @@
     "eg_2": "She maligned her opponent."
   },
   {
-    "day": 286,
+    "day": 285,
     "word": "Malleable",
     "ipa": "/ˈmæl.i.ə.bəl/",
     "definition": "Easily shaped or influenced",
@@ -2256,7 +2280,7 @@
     "eg_2": "Children’s minds are malleable."
   },
   {
-    "day": 287,
+    "day": 286,
     "word": "Manifest",
     "ipa": "/ˈmæn.ɪ.fest/",
     "definition": "Clear or obvious",
@@ -2264,7 +2288,7 @@
     "eg_2": "The symptoms manifest quickly."
   },
   {
-    "day": 288,
+    "day": 287,
     "word": "Maudlin",
     "ipa": "/ˈmɔːd.lɪn/",
     "definition": "Overly sentimental",
@@ -2272,7 +2296,7 @@
     "eg_2": "The movie is maudlin."
   },
   {
-    "day": 289,
+    "day": 288,
     "word": "Maverick",
     "ipa": "/ˈmæv.ər.ɪk/",
     "definition": "An independent-minded person",
@@ -2280,7 +2304,7 @@
     "eg_2": "The company hired a maverick CEO."
   },
   {
-    "day": 290,
+    "day": 289,
     "word": "Meander",
     "ipa": "/miˈæn.dər/",
     "definition": "To wander aimlessly",
@@ -2288,7 +2312,7 @@
     "eg_2": "He meandered around the park."
   },
   {
-    "day": 291,
+    "day": 290,
     "word": "Melancholy",
     "ipa": "/ˈmel.ən.kɒl.i/",
     "definition": "Sadness",
@@ -2296,7 +2320,7 @@
     "eg_2": "The music is full of melancholy."
   },
   {
-    "day": 292,
+    "day": 291,
     "word": "Meticulous",
     "ipa": "/məˈtɪk.jə.ləs/",
     "definition": "Very careful and precise",
@@ -2304,7 +2328,7 @@
     "eg_2": "His notes are meticulous."
   },
   {
-    "day": 293,
+    "day": 292,
     "word": "Mitigate",
     "ipa": "/ˈmɪt.ɪ.ɡeɪt/",
     "definition": "To make less severe",
@@ -2312,7 +2336,7 @@
     "eg_2": "Efforts were made to mitigate the damage."
   },
   {
-    "day": 294,
+    "day": 293,
     "word": "Mollify",
     "ipa": "/ˈmɒl.ɪ.faɪ/",
     "definition": "To calm or soothe",
@@ -2320,7 +2344,7 @@
     "eg_2": "His apology mollified her."
   },
   {
-    "day": 295,
+    "day": 294,
     "word": "Moribund",
     "ipa": "/ˈmɔː.rɪ.bʌnd/",
     "definition": "At the point of death",
@@ -2328,7 +2352,7 @@
     "eg_2": "His career was moribund."
   },
   {
-    "day": 296,
+    "day": 295,
     "word": "Morose",
     "ipa": "/məˈroʊs/",
     "definition": "Gloomy or sullen",
@@ -2336,7 +2360,7 @@
     "eg_2": "Her mood was morose."
   },
   {
-    "day": 297,
+    "day": 296,
     "word": "Mundane",
     "ipa": "/mʌnˈdeɪn/",
     "definition": "Ordinary and dull",
@@ -2344,7 +2368,7 @@
     "eg_2": "The story is about mundane life."
   },
   {
-    "day": 298,
+    "day": 297,
     "word": "Munificent",
     "ipa": "/mjuːˈnɪfɪsənt/",
     "definition": "Larger or more generous than is usual or necessary.",
@@ -2352,7 +2376,7 @@
     "eg_2": "Her munificent gifts surprised everyone."
   },
   {
-    "day": 299,
+    "day": 298,
     "word": "Munificent",
     "ipa": "/mjuːˈnɪf.ɪ.sənt/",
     "definition": "Very generous",
@@ -2360,7 +2384,7 @@
     "eg_2": "She is known for her munificent spirit."
   },
   {
-    "day": 300,
+    "day": 299,
     "word": "Myriad",
     "ipa": "/ˈmɪr.i.əd/",
     "definition": "A countless number",
@@ -2368,7 +2392,7 @@
     "eg_2": "She faced a myriad of challenges."
   },
   {
-    "day": 301,
+    "day": 300,
     "word": "Nebulous",
     "ipa": "/ˈneb.jə.ləs/",
     "definition": "Vague or unclear",
@@ -2376,7 +2400,7 @@
     "eg_2": "She gave a nebulous answer."
   },
   {
-    "day": 302,
+    "day": 301,
     "word": "Nefarious",
     "ipa": "/nɪˈfeə.ri.əs/",
     "definition": "Wicked or criminal",
@@ -2384,7 +2408,7 @@
     "eg_2": "The plot is nefarious."
   },
   {
-    "day": 303,
+    "day": 302,
     "word": "Nefarious",
     "ipa": "/nɪˈfeəriəs/",
     "definition": "Wicked, villainous, or criminal.",
@@ -2392,7 +2416,7 @@
     "eg_2": "He hatched a nefarious plot to cheat the system."
   },
   {
-    "day": 304,
+    "day": 303,
     "word": "Negligible",
     "ipa": "/ˈneɡ.lɪ.dʒə.bəl/",
     "definition": "So small as to be unimportant",
@@ -2400,7 +2424,7 @@
     "eg_2": "The risk is negligible."
   },
   {
-    "day": 305,
+    "day": 304,
     "word": "Nonchalant",
     "ipa": "/ˌnɒn.ʃəˈlɑːnt/",
     "definition": "Calm and unconcerned",
@@ -2408,7 +2432,7 @@
     "eg_2": "She remained nonchalant."
   },
   {
-    "day": 306,
+    "day": 305,
     "word": "Notorious",
     "ipa": "/noʊˈtɔːr.i.əs/",
     "definition": "Famous for something bad",
@@ -2416,7 +2440,7 @@
     "eg_2": "The city is notorious for traffic."
   },
   {
-    "day": 307,
+    "day": 306,
     "word": "Novice",
     "ipa": "/ˈnɒv.ɪs/",
     "definition": "A beginner",
@@ -2424,7 +2448,7 @@
     "eg_2": "The class is for novices."
   },
   {
-    "day": 308,
+    "day": 307,
     "word": "Nuance",
     "ipa": "/ˈnuː.ɑːns/",
     "definition": "A subtle difference",
@@ -2432,7 +2456,7 @@
     "eg_2": "The painting has many nuances."
   },
   {
-    "day": 309,
+    "day": 308,
     "word": "Obdurate",
     "ipa": "/ˈɒb.dʒə.rət/",
     "definition": "Stubborn",
@@ -2440,7 +2464,7 @@
     "eg_2": "Her obdurate refusal frustrated him."
   },
   {
-    "day": 310,
+    "day": 309,
     "word": "Obfuscate",
     "ipa": "/ˈɒbfʌskeɪt/",
     "definition": "To deliberately make something unclear or difficult to understand.",
@@ -2448,7 +2472,7 @@
     "eg_2": "He tried to obfuscate the facts during the interview."
   },
   {
-    "day": 311,
+    "day": 310,
     "word": "Obfuscate",
     "ipa": "/ˈɒb.fʌ.skeɪt/",
     "definition": "To make unclear",
@@ -2456,7 +2480,7 @@
     "eg_2": "He tried to obfuscate the facts."
   },
   {
-    "day": 312,
+    "day": 311,
     "word": "Oblivious",
     "ipa": "/əˈblɪv.i.əs/",
     "definition": "Unaware",
@@ -2464,7 +2488,7 @@
     "eg_2": "She is oblivious to criticism."
   },
   {
-    "day": 313,
+    "day": 312,
     "word": "Obscure",
     "ipa": "/əbˈskjʊr/",
     "definition": "Not well known",
@@ -2472,7 +2496,7 @@
     "eg_2": "He is an obscure writer."
   },
   {
-    "day": 314,
+    "day": 313,
     "word": "Obsequious",
     "ipa": "/əbˈsiː.kwi.əs/",
     "definition": "Overly submissive",
@@ -2480,7 +2504,7 @@
     "eg_2": "Her obsequious behavior is annoying."
   },
   {
-    "day": 315,
+    "day": 314,
     "word": "Obsolete",
     "ipa": "/ˌɒb.səˈliːt/",
     "definition": "No longer in use",
@@ -2488,7 +2512,7 @@
     "eg_2": "The law is obsolete."
   },
   {
-    "day": 316,
+    "day": 315,
     "word": "Obstreperous",
     "ipa": "/əbˈstrep.ər.əs/",
     "definition": "Noisy and difficult to control",
@@ -2496,7 +2520,7 @@
     "eg_2": "Her obstreperous behavior was disruptive."
   },
   {
-    "day": 317,
+    "day": 316,
     "word": "Odious",
     "ipa": "/ˈoʊ.di.əs/",
     "definition": "Extremely unpleasant",
@@ -2504,7 +2528,7 @@
     "eg_2": "His behavior is odious."
   },
   {
-    "day": 318,
+    "day": 317,
     "word": "Onerous",
     "ipa": "/ˈoʊ.nər.əs/",
     "definition": "Burdensome",
@@ -2512,7 +2536,7 @@
     "eg_2": "He has an onerous job."
   },
   {
-    "day": 319,
+    "day": 318,
     "word": "Opaque",
     "ipa": "/oʊˈpeɪk/",
     "definition": "Not transparent",
@@ -2520,7 +2544,7 @@
     "eg_2": "His explanation was opaque."
   },
   {
-    "day": 320,
+    "day": 319,
     "word": "Opulent",
     "ipa": "/ˈɑː.pjə.lənt/",
     "definition": "Rich and luxurious",
@@ -2528,7 +2552,7 @@
     "eg_2": "The palace is opulent."
   },
   {
-    "day": 321,
+    "day": 320,
     "word": "Ostensible",
     "ipa": "/ɒˈsten.sə.bəl/",
     "definition": "Stated or appearing to be true, but not necessarily so",
@@ -2536,7 +2560,7 @@
     "eg_2": "His ostensible friendliness hid his true motives."
   },
   {
-    "day": 322,
+    "day": 321,
     "word": "Ostentatious",
     "ipa": "/ˌɒs.tenˈteɪ.ʃəs/",
     "definition": "Showy",
@@ -2544,7 +2568,7 @@
     "eg_2": "She wore an ostentatious dress."
   },
   {
-    "day": 323,
+    "day": 322,
     "word": "Ostracize",
     "ipa": "/ˈɒs.trə.saɪz/",
     "definition": "To exclude from a group",
@@ -2552,7 +2576,7 @@
     "eg_2": "The community ostracized her."
   },
   {
-    "day": 324,
+    "day": 323,
     "word": "Panacea",
     "ipa": "/ˌpæn.əˈsiː.ə/",
     "definition": "A cure-all",
@@ -2560,7 +2584,7 @@
     "eg_2": "He offered a panacea."
   },
   {
-    "day": 325,
+    "day": 324,
     "word": "Panegyric",
     "ipa": "/ˌpæn.ɪˈdʒɪr.ɪk/",
     "definition": "A public speech or text in praise of someone",
@@ -2568,7 +2592,7 @@
     "eg_2": "The article was a panegyric to her achievements."
   },
   {
-    "day": 326,
+    "day": 325,
     "word": "Paradigm",
     "ipa": "/ˈpær.ə.daɪm/",
     "definition": "A model or example",
@@ -2576,7 +2600,7 @@
     "eg_2": "The theory represents a new paradigm."
   },
   {
-    "day": 327,
+    "day": 326,
     "word": "Paragon",
     "ipa": "/ˈpær.ə.ɡɒn/",
     "definition": "A perfect example",
@@ -2584,7 +2608,7 @@
     "eg_2": "The building is a paragon of design."
   },
   {
-    "day": 328,
+    "day": 327,
     "word": "Pariah",
     "ipa": "/pəˈraɪ.ə/",
     "definition": "An outcast",
@@ -2592,7 +2616,7 @@
     "eg_2": "The scandal made her a pariah."
   },
   {
-    "day": 329,
+    "day": 328,
     "word": "Parsimonious",
     "ipa": "/ˌpɑːr.sɪˈmoʊ.ni.əs/",
     "definition": "Extremely frugal",
@@ -2600,7 +2624,7 @@
     "eg_2": "Her parsimonious habits are well known."
   },
   {
-    "day": 330,
+    "day": 329,
     "word": "Parsimony",
     "ipa": "/ˈpɑː.sɪ.mə.ni/",
     "definition": "Extreme unwillingness to spend money",
@@ -2608,7 +2632,7 @@
     "eg_2": "He was criticized for his parsimony."
   },
   {
-    "day": 331,
+    "day": 330,
     "word": "Partisan",
     "ipa": "/ˈpɑːr.tɪ.zæn/",
     "definition": "Strongly supporting one side",
@@ -2616,7 +2640,7 @@
     "eg_2": "He is a partisan of the party."
   },
   {
-    "day": 332,
+    "day": 331,
     "word": "Pedantic",
     "ipa": "/pəˈdæn.tɪk/",
     "definition": "Overly concerned with details",
@@ -2624,7 +2648,7 @@
     "eg_2": "She is pedantic about grammar."
   },
   {
-    "day": 333,
+    "day": 332,
     "word": "Pejorative",
     "ipa": "/pɪˈdʒɒr.ə.tɪv/",
     "definition": "Expressing contempt or disapproval",
@@ -2632,7 +2656,7 @@
     "eg_2": "Her remarks were pejorative."
   },
   {
-    "day": 334,
+    "day": 333,
     "word": "Penchant",
     "ipa": "/ˈpen.tʃənt/",
     "definition": "A strong liking",
@@ -2640,7 +2664,7 @@
     "eg_2": "Her penchant for sweets is obvious."
   },
   {
-    "day": 335,
+    "day": 334,
     "word": "Perfunctory",
     "ipa": "/pərˈfʌŋk.tər.i/",
     "definition": "Done without care",
@@ -2648,7 +2672,7 @@
     "eg_2": "Her apology was perfunctory."
   },
   {
-    "day": 336,
+    "day": 335,
     "word": "Pernicious",
     "ipa": "/pərˈnɪʃ.əs/",
     "definition": "Very harmful",
@@ -2656,7 +2680,7 @@
     "eg_2": "His influence is pernicious."
   },
   {
-    "day": 337,
+    "day": 336,
     "word": "Pernicious",
     "ipa": "/pəˈnɪʃəs/",
     "definition": "Having a harmful effect, especially in a gradual or subtle way.",
@@ -2664,7 +2688,7 @@
     "eg_2": "Social media can have a pernicious effect on self-esteem."
   },
   {
-    "day": 338,
+    "day": 337,
     "word": "Perpetuate",
     "ipa": "/pərˈpetʃ.u.eɪt/",
     "definition": "To make something continue",
@@ -2672,7 +2696,7 @@
     "eg_2": "She perpetuated the tradition."
   },
   {
-    "day": 339,
+    "day": 338,
     "word": "Perspicacious",
     "ipa": "/ˌpɜː.spɪˈkeɪ.ʃəs/",
     "definition": "Having keen understanding",
@@ -2680,7 +2704,7 @@
     "eg_2": "His perspicacious comments were helpful."
   },
   {
-    "day": 340,
+    "day": 339,
     "word": "Petulant",
     "ipa": "/ˈpetʃ.ə.lənt/",
     "definition": "Childishly sulky",
@@ -2688,7 +2712,7 @@
     "eg_2": "Her petulant tone annoyed him."
   },
   {
-    "day": 341,
+    "day": 340,
     "word": "Phlegmatic",
     "ipa": "/fleɡˈmæt.ɪk/",
     "definition": "Calm and unemotional",
@@ -2696,7 +2720,7 @@
     "eg_2": "Her phlegmatic response surprised everyone."
   },
   {
-    "day": 342,
+    "day": 341,
     "word": "Placate",
     "ipa": "/ˈpleɪ.keɪt/",
     "definition": "To calm or pacify",
@@ -2704,7 +2728,7 @@
     "eg_2": "She placated her upset friend."
   },
   {
-    "day": 343,
+    "day": 342,
     "word": "Placid",
     "ipa": "/ˈplæs.ɪd/",
     "definition": "Calm and peaceful",
@@ -2712,7 +2736,7 @@
     "eg_2": "She remained placid under pressure."
   },
   {
-    "day": 344,
+    "day": 343,
     "word": "Platitude",
     "ipa": "/ˈplæt.ɪ.tjuːd/",
     "definition": "A trite remark",
@@ -2720,7 +2744,7 @@
     "eg_2": "She offered platitudes instead of help."
   },
   {
-    "day": 345,
+    "day": 344,
     "word": "Plethora",
     "ipa": "/ˈpleθ.ər.ə/",
     "definition": "An excess",
@@ -2728,7 +2752,7 @@
     "eg_2": "The store offers a plethora of products."
   },
   {
-    "day": 346,
+    "day": 345,
     "word": "Poignant",
     "ipa": "/ˈpɔɪ.njənt/",
     "definition": "Emotionally touching",
@@ -2736,7 +2760,7 @@
     "eg_2": "She gave a poignant speech."
   },
   {
-    "day": 347,
+    "day": 346,
     "word": "Pragmatic",
     "ipa": "/præɡˈmæt.ɪk/",
     "definition": "Practical",
@@ -2744,7 +2768,7 @@
     "eg_2": "Her approach is pragmatic."
   },
   {
-    "day": 348,
+    "day": 347,
     "word": "Precarious",
     "ipa": "/prɪˈkeə.ri.əs/",
     "definition": "Dangerously unstable",
@@ -2752,7 +2776,7 @@
     "eg_2": "His position is precarious."
   },
   {
-    "day": 349,
+    "day": 348,
     "word": "Precipitate",
     "ipa": "/prɪˈsɪp.ɪ.teɪt/",
     "definition": "To cause to happen suddenly",
@@ -2760,7 +2784,7 @@
     "eg_2": "His actions precipitated the conflict."
   },
   {
-    "day": 350,
+    "day": 349,
     "word": "Precocious",
     "ipa": "/prɪˈkoʊ.ʃəs/",
     "definition": "Advanced for one’s age",
@@ -2768,7 +2792,7 @@
     "eg_2": "His precocious talent impressed everyone."
   },
   {
-    "day": 351,
+    "day": 350,
     "word": "Predilection",
     "ipa": "/ˌpred.ɪˈlek.ʃən/",
     "definition": "A preference for something",
@@ -2776,7 +2800,7 @@
     "eg_2": "Her predilection for sweets is obvious."
   },
   {
-    "day": 352,
+    "day": 351,
     "word": "Prevalent",
     "ipa": "/ˈprev.əl.ənt/",
     "definition": "Widespread",
@@ -2784,7 +2808,7 @@
     "eg_2": "Such beliefs are prevalent."
   },
   {
-    "day": 353,
+    "day": 352,
     "word": "Proclivity",
     "ipa": "/prəˈklɪv.ə.ti/",
     "definition": "A natural tendency",
@@ -2792,7 +2816,7 @@
     "eg_2": "Her proclivity for art is clear."
   },
   {
-    "day": 354,
+    "day": 353,
     "word": "Prodigal",
     "ipa": "/ˈprɒd.ɪ.ɡəl/",
     "definition": "Wastefully extravagant",
@@ -2800,7 +2824,7 @@
     "eg_2": "The prodigal son returned home."
   },
   {
-    "day": 355,
+    "day": 354,
     "word": "Prodigious",
     "ipa": "/prəˈdɪdʒ.əs/",
     "definition": "Remarkably great in size or extent",
@@ -2808,7 +2832,7 @@
     "eg_2": "The prodigious amount of work was impressive."
   },
   {
-    "day": 356,
+    "day": 355,
     "word": "Prolific",
     "ipa": "/prəˈlɪf.ɪk/",
     "definition": "Producing a lot",
@@ -2816,7 +2840,7 @@
     "eg_2": "The tree is prolific in fruit."
   },
   {
-    "day": 357,
+    "day": 356,
     "word": "Propensity",
     "ipa": "/prəˈpen.sɪ.ti/",
     "definition": "A natural inclination",
@@ -2824,7 +2848,7 @@
     "eg_2": "Her propensity for kindness is well known."
   },
   {
-    "day": 358,
+    "day": 357,
     "word": "Prosaic",
     "ipa": "/prəˈzeɪ.ɪk/",
     "definition": "Dull and unimaginative",
@@ -2832,7 +2856,7 @@
     "eg_2": "The story is prosaic."
   },
   {
-    "day": 359,
+    "day": 358,
     "word": "Protract",
     "ipa": "/prəˈtrækt/",
     "definition": "To prolong",
@@ -2840,7 +2864,7 @@
     "eg_2": "He protracted the meeting."
   },
   {
-    "day": 360,
+    "day": 359,
     "word": "Prudent",
     "ipa": "/ˈpruː.dənt/",
     "definition": "Wise and careful",
@@ -2848,7 +2872,7 @@
     "eg_2": "It is prudent to save money."
   },
   {
-    "day": 361,
+    "day": 360,
     "word": "Pugnacious",
     "ipa": "/pʌɡˈneɪ.ʃəs/",
     "definition": "Eager to fight",
@@ -2856,7 +2880,7 @@
     "eg_2": "Her pugnacious attitude caused problems."
   },
   {
-    "day": 362,
+    "day": 361,
     "word": "Quandary",
     "ipa": "/ˈkwɒn.dri/",
     "definition": "A state of uncertainty",
@@ -2864,7 +2888,7 @@
     "eg_2": "The decision put her in a quandary."
   },
   {
-    "day": 363,
+    "day": 362,
     "word": "Quell",
     "ipa": "/kwel/",
     "definition": "To suppress",
@@ -2872,7 +2896,7 @@
     "eg_2": "She quelled her fears."
   },
   {
-    "day": 364,
+    "day": 363,
     "word": "Quintessential",
     "ipa": "/ˌkwɪn.tɪˈsen.ʃəl/",
     "definition": "Representing the most perfect example",
@@ -2880,7 +2904,7 @@
     "eg_2": "The dish is quintessentially Italian."
   },
   {
-    "day": 365,
+    "day": 364,
     "word": "Quixotic",
     "ipa": "/kwɪkˈsɒt.ɪk/",
     "definition": "Unrealistically idealistic",
@@ -2888,7 +2912,7 @@
     "eg_2": "She has a quixotic vision."
   },
   {
-    "day": 366,
+    "day": 365,
     "word": "Rancor",
     "ipa": "/ˈræŋ.kər/",
     "definition": "Bitter resentment",
@@ -2896,7 +2920,7 @@
     "eg_2": "There is rancor between the rivals."
   },
   {
-    "day": 367,
+    "day": 366,
     "word": "Rebuke",
     "ipa": "/rɪˈbjuːk/",
     "definition": "To criticize sharply",
@@ -2904,7 +2928,7 @@
     "eg_2": "The boss rebuked the staff."
   },
   {
-    "day": 368,
+    "day": 367,
     "word": "Recalcitrant",
     "ipa": "/rɪˈkæl.sɪ.trənt/",
     "definition": "Stubbornly disobedient",
@@ -2912,7 +2936,7 @@
     "eg_2": "The recalcitrant child refused to listen."
   },
   {
-    "day": 369,
+    "day": 368,
     "word": "Recant",
     "ipa": "/rɪˈkænt/",
     "definition": "To withdraw a statement",
@@ -2920,7 +2944,7 @@
     "eg_2": "She recanted her previous remarks."
   },
   {
-    "day": 370,
+    "day": 369,
     "word": "Reclusive",
     "ipa": "/rɪˈkluː.sɪv/",
     "definition": "Preferring to live in isolation",
@@ -2928,7 +2952,7 @@
     "eg_2": "Her reclusive lifestyle is unusual."
   },
   {
-    "day": 371,
+    "day": 370,
     "word": "Redolent",
     "ipa": "/ˈred.ə.lənt/",
     "definition": "Strongly reminiscent or fragrant",
@@ -2936,7 +2960,7 @@
     "eg_2": "Her story was redolent of childhood."
   },
   {
-    "day": 372,
+    "day": 371,
     "word": "Refute",
     "ipa": "/rɪˈfjuːt/",
     "definition": "To disprove",
@@ -2944,7 +2968,7 @@
     "eg_2": "The theory was refuted."
   },
   {
-    "day": 373,
+    "day": 372,
     "word": "Relegate",
     "ipa": "/ˈrel.ɪ.ɡeɪt/",
     "definition": "To assign to a lower position",
@@ -2952,7 +2976,7 @@
     "eg_2": "The team was relegated to a lower division."
   },
   {
-    "day": 374,
+    "day": 373,
     "word": "Remorse",
     "ipa": "/rɪˈmɔːrs/",
     "definition": "Deep regret",
@@ -2960,7 +2984,7 @@
     "eg_2": "She expressed remorse."
   },
   {
-    "day": 375,
+    "day": 374,
     "word": "Replete",
     "ipa": "/rɪˈpliːt/",
     "definition": "Filled with",
@@ -2968,7 +2992,7 @@
     "eg_2": "Her speech was replete with anecdotes."
   },
   {
-    "day": 376,
+    "day": 375,
     "word": "Reprehensible",
     "ipa": "/ˌrep.rɪˈhen.sə.bəl/",
     "definition": "Deserving blame",
@@ -2976,7 +3000,7 @@
     "eg_2": "The behavior is reprehensible."
   },
   {
-    "day": 377,
+    "day": 376,
     "word": "Reproach",
     "ipa": "/rɪˈproʊtʃ/",
     "definition": "To express disapproval",
@@ -2984,7 +3008,7 @@
     "eg_2": "He was reproached by his parents."
   },
   {
-    "day": 378,
+    "day": 377,
     "word": "Rescind",
     "ipa": "/rɪˈsɪnd/",
     "definition": "To cancel",
@@ -2992,7 +3016,7 @@
     "eg_2": "They rescinded the contract."
   },
   {
-    "day": 379,
+    "day": 378,
     "word": "Resilient",
     "ipa": "/rɪˈzɪl.jənt/",
     "definition": "Able to recover quickly",
@@ -3000,7 +3024,7 @@
     "eg_2": "The material is resilient."
   },
   {
-    "day": 380,
+    "day": 379,
     "word": "Reticent",
     "ipa": "/ˈret.ɪ.sənt/",
     "definition": "Reserved; not revealing one's thoughts",
@@ -3008,7 +3032,7 @@
     "eg_2": "She remained reticent."
   },
   {
-    "day": 381,
+    "day": 380,
     "word": "Revere",
     "ipa": "/rɪˈvɪər/",
     "definition": "To respect deeply",
@@ -3016,7 +3040,7 @@
     "eg_2": "She reveres her teacher."
   },
   {
-    "day": 382,
+    "day": 381,
     "word": "Rhetoric",
     "ipa": "/ˈret.ər.ɪk/",
     "definition": "Effective or persuasive speaking",
@@ -3024,7 +3048,7 @@
     "eg_2": "She is skilled in rhetoric."
   },
   {
-    "day": 383,
+    "day": 382,
     "word": "Rudimentary",
     "ipa": "/ˌruː.dɪˈmen.tər.i/",
     "definition": "Basic or elementary",
@@ -3032,7 +3056,7 @@
     "eg_2": "The system is rudimentary."
   },
   {
-    "day": 384,
+    "day": 383,
     "word": "Sagacious",
     "ipa": "/səˈɡeɪ.ʃəs/",
     "definition": "Wise",
@@ -3040,7 +3064,7 @@
     "eg_2": "His advice was sagacious."
   },
   {
-    "day": 385,
+    "day": 384,
     "word": "Salient",
     "ipa": "/ˈseɪ.li.ənt/",
     "definition": "Most noticeable or important",
@@ -3048,7 +3072,7 @@
     "eg_2": "Her salient features are her eyes."
   },
   {
-    "day": 386,
+    "day": 385,
     "word": "Sanguine",
     "ipa": "/ˈsæŋ.ɡwɪn/",
     "definition": "Optimistic",
@@ -3056,7 +3080,7 @@
     "eg_2": "She remains sanguine despite setbacks."
   },
   {
-    "day": 387,
+    "day": 386,
     "word": "Serendipity",
     "ipa": "/ˌser.ənˈdɪp.ɪ.ti/",
     "definition": "The occurrence of fortunate events by chance",
@@ -3064,7 +3088,7 @@
     "eg_2": "The discovery was a result of serendipity."
   },
   {
-    "day": 388,
+    "day": 387,
     "word": "Spurious",
     "ipa": "/ˈspjʊə.ri.əs/",
     "definition": "Not genuine; false",
@@ -3072,7 +3096,7 @@
     "eg_2": "He gave a spurious excuse."
   },
   {
-    "day": 389,
+    "day": 388,
     "word": "Stoic",
     "ipa": "/ˈstoʊ.ɪk/",
     "definition": "Enduring pain without showing feelings",
@@ -3080,7 +3104,7 @@
     "eg_2": "She has a stoic attitude."
   },
   {
-    "day": 390,
+    "day": 389,
     "word": "Superfluous",
     "ipa": "/suːˈpɜːr.flu.əs/",
     "definition": "Unnecessary; more than enough",
@@ -3088,7 +3112,7 @@
     "eg_2": "Remove any superfluous words."
   },
   {
-    "day": 391,
+    "day": 390,
     "word": "Sycophant",
     "ipa": "/ˈsɪk.ə.fænt/",
     "definition": "A person who flatters for personal gain",
@@ -3096,7 +3120,7 @@
     "eg_2": "The boss dislikes sycophants."
   },
   {
-    "day": 392,
+    "day": 391,
     "word": "Tantamount",
     "ipa": "/ˈtæn.tə.maʊnt/",
     "definition": "Equivalent in seriousness",
@@ -3104,7 +3128,7 @@
     "eg_2": "The action is tantamount to betrayal."
   },
   {
-    "day": 393,
+    "day": 392,
     "word": "Tenuous",
     "ipa": "/ˈten.ju.əs/",
     "definition": "Very weak or slight",
@@ -3112,7 +3136,7 @@
     "eg_2": "Their relationship is tenuous."
   },
   {
-    "day": 394,
+    "day": 393,
     "word": "Transient",
     "ipa": "/ˈtræn.zi.ənt/",
     "definition": "Lasting only a short time",
@@ -3120,7 +3144,7 @@
     "eg_2": "Life is transient."
   },
   {
-    "day": 395,
+    "day": 394,
     "word": "Ubiquitous",
     "ipa": "/juːˈbɪk.wɪ.təs/",
     "definition": "Present everywhere",
@@ -3128,7 +3152,7 @@
     "eg_2": "His influence is ubiquitous."
   },
   {
-    "day": 396,
+    "day": 395,
     "word": "Umbrage",
     "ipa": "/ˈʌm.brɪdʒ/",
     "definition": "Offense or annoyance",
@@ -3136,7 +3160,7 @@
     "eg_2": "He felt umbrage at the criticism."
   },
   {
-    "day": 397,
+    "day": 396,
     "word": "Unctuous",
     "ipa": "/ˈʌŋk.tʃu.əs/",
     "definition": "Excessively flattering",
@@ -3144,7 +3168,7 @@
     "eg_2": "She disliked his unctuous manner."
   },
   {
-    "day": 398,
+    "day": 397,
     "word": "Usurp",
     "ipa": "/juːˈzɜːp/",
     "definition": "To take a position by force",
@@ -3152,7 +3176,7 @@
     "eg_2": "The general usurped power."
   },
   {
-    "day": 399,
+    "day": 398,
     "word": "Vacuous",
     "ipa": "/ˈvæk.ju.əs/",
     "definition": "Lacking ideas or intelligence",
@@ -3160,7 +3184,7 @@
     "eg_2": "The conversation was vacuous."
   },
   {
-    "day": 400,
+    "day": 399,
     "word": "Venerate",
     "ipa": "/ˈven.ə.reɪt/",
     "definition": "To respect deeply",
@@ -3168,7 +3192,7 @@
     "eg_2": "They venerate their ancestors."
   },
   {
-    "day": 401,
+    "day": 400,
     "word": "Vicissitude",
     "ipa": "/vɪˈsɪs.ɪ.tjuːd/",
     "definition": "A change of circumstances, typically unpleasant",
@@ -3176,7 +3200,7 @@
     "eg_2": "The business survived many vicissitudes."
   },
   {
-    "day": 402,
+    "day": 401,
     "word": "Vilify",
     "ipa": "/ˈvɪl.ɪ.faɪ/",
     "definition": "To speak ill of",
@@ -3184,7 +3208,7 @@
     "eg_2": "She vilified her opponent."
   },
   {
-    "day": 403,
+    "day": 402,
     "word": "Vociferous",
     "ipa": "/voʊˈsɪf.ər.əs/",
     "definition": "Loud and forceful",
@@ -3192,7 +3216,7 @@
     "eg_2": "He was vociferous in his opposition."
   },
   {
-    "day": 404,
+    "day": 403,
     "word": "Wary",
     "ipa": "/ˈweə.ri/",
     "definition": "Cautious",
@@ -3200,7 +3224,7 @@
     "eg_2": "He is wary of making promises."
   },
   {
-    "day": 405,
+    "day": 404,
     "word": "Zealous",
     "ipa": "/ˈzel.əs/",
     "definition": "Showing great energy or enthusiasm",
