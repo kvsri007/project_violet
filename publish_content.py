@@ -7,8 +7,13 @@ import random
 
 me = "kvsriiram2007@gmail.com"
 
-json_file = "./content/data.json"
-caption_file = "./content/caption.txt"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Root directory where your script is
+ASSET_DIR = os.path.join(BASE_DIR, "assets")
+CONTENT_DIR = os.path.join(BASE_DIR, "content")
+
+json_file = os.path.join(CONTENT_DIR, "data.json")
+
+caption_file = os.path.join(CONTENT_DIR, "caption.txt")
 tags_raw = ['#Vocabulary', '#WordOfTheDay', '#LearnNewWords', '#Automation', '#PythonProgramming', '#TechAutomation', '#CodingLife', '#TechPortfolio', '#APIs', '#WorkflowAutomation', '#InstagramAutomation', '#ContentAutomation', '#SocialMediaAutomation', '#InstagramWorkflow', '#ContentCreator', '#InstaCarousel', '#LearnWithMe', '#StayCurious', '#TechCommunity', '#Innovation', '#CreativeTech', '#TechJourney', '#BuildInPublic', '#DailyVocabulary', '#EnglishVocabulary', '#WordNerd', '#LanguageLearning', '#ContentCreation', '#SocialMediaTips', '#TechProjects']
 default_tag = "#AutomaticWordDrop "
 
