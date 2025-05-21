@@ -43,7 +43,7 @@ def gen_page1(template,text1,text2,save):
 
     draw_text_with_letter_spacing(draw, position2, text2, font2, color2, letter_spacing_px)
 
-    img.save("./"+save)
+    img.save(os.path.join(CONTENT_DIR, save))
 
 
 
