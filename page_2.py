@@ -1,6 +1,15 @@
 from PIL import Image, ImageDraw, ImageFont
 
 #Text 2 max 240 char
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Root directory where your script is
+ASSET_DIR = os.path.join(BASE_DIR, "assets")
+CONTENT_DIR = os.path.join(BASE_DIR, "content")
+# Font paths
+FONT_BOLD = os.path.join(ASSET_DIR, "timesbd.ttf")
+FONT_BOLD_ITALIC = os.path.join(ASSET_DIR, "timesbi.ttf")
+FONT_ITALIC = os.path.join(ASSET_DIR, "timesi.ttf")
+
+
 
 def draw_text_with_letter_spacing(draw, position, text, font, fill, letter_spacing):
     x, y = position
@@ -30,8 +39,8 @@ def gen_page2(template,text1,text2,text3,save):
 
    
     bg_path = template  
-    font_bold_path = './assets/timesbd.ttf'      
-    font_regular_path = './assets/times.ttf'        
+    font_bold_path = FONT_BOLD      
+    font_regular_path = FONT_BOLD       
 
     
     img = Image.open(bg_path).convert('RGB')
@@ -79,7 +88,7 @@ def gen_page2(template,text1,text2,text3,save):
         y3 += line_height + 10 
 
     
-    img.save("./"+save)
+    img.save(os.path.join(CONTENT_DIR,save))
 
 
 
