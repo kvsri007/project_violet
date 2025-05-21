@@ -1,5 +1,5 @@
 from PIL import Image, ImageDraw, ImageFont
-
+import os
 # Text 1 len should be less than 11 text 2 <21 char
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Root directory where your script is
 ASSET_DIR = os.path.join(BASE_DIR, "assets")
