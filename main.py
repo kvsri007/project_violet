@@ -5,6 +5,7 @@ import editor
 import publish_content
 import json
 import send_mail
+import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Root directory where your script is
 ASSET_DIR = os.path.join(BASE_DIR, "assets")
