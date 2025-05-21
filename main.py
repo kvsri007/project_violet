@@ -6,8 +6,11 @@ import publish_content
 import json
 import send_mail
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Root directory where your script is
+ASSET_DIR = os.path.join(BASE_DIR, "assets")
+CONTENT_DIR = os.path.join(BASE_DIR, "content")
 
-json_file = "./content/data.json"
+json_file = os.path.join(CONTENT_DIR, "data.json")
 me = "kvsriiram2007@gmail.com"
 
 
