@@ -4,7 +4,7 @@ import upload
 import send_mail
 import json
 import random
-
+import os
 me = "kvsriiram2007@gmail.com"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Root directory where your script is
