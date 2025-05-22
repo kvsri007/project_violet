@@ -8,6 +8,7 @@ CONTENT_DIR = os.path.join(BASE_DIR, "content")
 FONT_BOLD = os.path.join(ASSET_DIR, "timesbd.ttf")
 FONT_BOLD_ITALIC = os.path.join(ASSET_DIR, "timesbi.ttf")
 FONT_ITALIC = os.path.join(ASSET_DIR, "timesi.ttf")
+FONT_REGULAR = os.path.join(ASSET_DIR, "times.ttf")
 
 
 
@@ -40,7 +41,7 @@ def gen_page2(template,text1,text2,text3,save):
    
     bg_path = template  
     font_bold_path = FONT_BOLD      
-    font_regular_path = FONT_BOLD       
+    font_regular_path = FONT_REGULAR      
 
     
     img = Image.open(bg_path).convert('RGB')
