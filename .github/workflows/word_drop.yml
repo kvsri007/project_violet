@@ -30,5 +30,5 @@ jobs:
       - name: Run the main automation script
         run: python main.py
         env:
-          G_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          G_TOKEN: ${{ secrets.GH_PAT }}
 
